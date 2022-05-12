@@ -1,0 +1,1965 @@
+Attempting to remove groups for Paul Balciunas | DEPROVISIONED
+Successfully removed paulb@canoo.com from group Active-Fulltime
+Successfully removed paulb@canoo.com from group team-training
+Successfully removed paulb@canoo.com from group PolarionUsers
+Successfully removed paulb@canoo.com from group Corp-Canoo
+Successfully removed paulb@canoo.com from group Oracle ERP - Prod
+Successfully removed paulb@canoo.com from group team-internal-canoo
+Successfully removed paulb@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed paulb@canoo.com from group Compass_All_FT_Users
+Successfully removed paulb@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Attempting to remove groups for Charley Bak | DEPROVISIONED
+Successfully removed Charley.Bak@canoo.com from group Active-Fulltime
+Successfully removed Charley.Bak@canoo.com from group FileCloud Users
+Successfully removed Charley.Bak@canoo.com from group team-training
+Successfully removed Charley.Bak@canoo.com from group Corp-Canoo
+Successfully removed Charley.Bak@canoo.com from group Global Protect Users
+Successfully removed Charley.Bak@canoo.com from group Oracle ERP - Prod
+Successfully removed Charley.Bak@canoo.com from group team-internal-canoo
+Successfully removed Charley.Bak@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Aniruddha Ranade | DEPROVISIONED
+Successfully removed aniruddha@canoo.com from group Active-Fulltime
+Successfully removed aniruddha@canoo.com from group team-training
+Successfully removed aniruddha@canoo.com from group team-structures-cae
+Successfully removed aniruddha@canoo.com from group PolarionUsers
+Successfully removed aniruddha@canoo.com from group jira-software-users
+Successfully removed aniruddha@canoo.com from group Rescale Users
+Successfully removed aniruddha@canoo.com from group Corp-Canoo
+Successfully removed aniruddha@canoo.com from group Global Protect Users
+Successfully removed aniruddha@canoo.com from group Oracle ERP - Prod
+Successfully removed aniruddha@canoo.com from group team-internal-canoo
+Successfully removed aniruddha@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Ray Rautio | DEPROVISIONED
+Successfully removed rayedag@canoo.com from group Active-Fulltime
+Attempting to remove groups for Krishn Ray | DEPROVISIONED
+Successfully removed krishn.ray@canoo.com from group Active-Fulltime
+Successfully removed krishn.ray@canoo.com from group JfrogSoftware
+Successfully removed krishn.ray@canoo.com from group team-training
+Successfully removed krishn.ray@canoo.com from group jira-software-users
+Attempting to remove groups for Chloe Ren | DEPROVISIONED
+Attempting to remove groups for Marina Reyes | DEPROVISIONED
+Successfully removed marina@canoo.com from group Active-Fulltime
+Successfully removed marina@canoo.com from group FileCloud Users
+Successfully removed marina@canoo.com from group team-hr
+Successfully removed marina@canoo.com from group team-payroll
+Successfully removed marina@canoo.com from group team-training
+Successfully removed marina@canoo.com from group PolarionUsers
+Successfully removed marina@canoo.com from group jira-software-users
+Successfully removed marina@canoo.com from group Corp-Canoo
+Successfully removed marina@canoo.com from group Oracle ERP - Prod
+Successfully removed marina@canoo.com from group team-internal-canoo
+Successfully removed marina@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Marcos Robles | DEPROVISIONED
+Attempting to remove groups for Nathaniel Rosso | DEPROVISIONED
+Successfully removed nathaniel@canoo.com from group Active-Fulltime
+Successfully removed nathaniel@canoo.com from group FileCloud Users
+Successfully removed nathaniel@canoo.com from group team-training
+Successfully removed nathaniel@canoo.com from group team-suspension
+Successfully removed nathaniel@canoo.com from group PolarionUsers
+Successfully removed nathaniel@canoo.com from group jira-software-users
+Successfully removed nathaniel@canoo.com from group Corp-Canoo
+Successfully removed nathaniel@canoo.com from group Global Protect Users
+Successfully removed nathaniel@canoo.com from group Oracle ERP - Prod
+Successfully removed nathaniel@canoo.com from group team-internal-canoo
+Successfully removed nathaniel@canoo.com from group SWOPS_Ultron_Overall_View
+Successfully removed nathaniel@canoo.com from group Compass_All_FT_Users
+Successfully removed nathaniel@canoo.com from group SauronUsers
+Attempting to remove groups for Oded Rotem | DEPROVISIONED
+Successfully removed oded.rotem@canoo.com from group Active-Fulltime
+Attempting to remove groups for Srikanth RSA | DEPROVISIONED
+Successfully removed srikanth.rsa@canoo.com from group Active-Fulltime
+Successfully removed srikanth.rsa@canoo.com from group team-training
+Successfully removed srikanth.rsa@canoo.com from group PolarionUsers
+Successfully removed srikanth.rsa@canoo.com from group jira-software-users
+Attempting to remove groups for Enrico Sala | DEPROVISIONED
+Successfully removed enrico.sala@canoo.com from group Active-Fulltime
+Successfully removed enrico.sala@canoo.com from group team-battery
+Successfully removed enrico.sala@canoo.com from group team-electrical-high-voltage
+Successfully removed enrico.sala@canoo.com from group team-power-electronics
+Successfully removed enrico.sala@canoo.com from group team-training
+Successfully removed enrico.sala@canoo.com from group team-production-control
+Successfully removed enrico.sala@canoo.com from group PolarionUsers
+Successfully removed enrico.sala@canoo.com from group jira-software-users
+Successfully removed enrico.sala@canoo.com from group Corp-Canoo
+Successfully removed enrico.sala@canoo.com from group Global Protect Users
+Successfully removed enrico.sala@canoo.com from group Oracle ERP - Prod
+Successfully removed enrico.sala@canoo.com from group team-internal-canoo
+Successfully removed enrico.sala@canoo.com from group Compass_All_FT_Users
+Successfully removed enrico.sala@canoo.com from group team-electronics
+Successfully removed enrico.sala@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed enrico.sala@canoo.com from group Openpath - Fulltime
+Successfully removed enrico.sala@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Stephan Schmitz-Justen | DEPROVISIONED
+Successfully removed stephan.schmitz-justen@canoo.com from group Active-Fulltime
+Successfully removed stephan.schmitz-justen@canoo.com from group team-in-house-manufacturing
+Successfully removed stephan.schmitz-justen@canoo.com from group team-training
+Successfully removed stephan.schmitz-justen@canoo.com from group PolarionUsers
+Successfully removed stephan.schmitz-justen@canoo.com from group jira-software-users
+Successfully removed stephan.schmitz-justen@canoo.com from group team-vehicle-shop
+Successfully removed stephan.schmitz-justen@canoo.com from group Oracle ERP - Prod
+Successfully removed stephan.schmitz-justen@canoo.com from group team-internal-canoo
+Attempting to remove groups for Clemens Schmitz-Justen | DEPROVISIONED
+Attempting to remove groups for Brooke Self | DEPROVISIONED
+Successfully removed brooke@canoo.com from group Active-Fulltime
+Successfully removed brooke@canoo.com from group team-hr
+Successfully removed brooke@canoo.com from group team-training
+Successfully removed brooke@canoo.com from group team-talent-acquisition
+Successfully removed brooke@canoo.com from group PolarionUsers
+Successfully removed brooke@canoo.com from group jira-software-users
+Successfully removed brooke@canoo.com from group Corp-Canoo
+Successfully removed brooke@canoo.com from group Oracle ERP - Prod
+Successfully removed brooke@canoo.com from group team-internal-canoo
+Successfully removed brooke@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Veronica Shea | DEPROVISIONED
+Successfully removed veronica@canoo.com from group Active-Fulltime
+Successfully removed veronica@canoo.com from group team-business-administration
+Successfully removed veronica@canoo.com from group team-health-and-safety
+Successfully removed veronica@canoo.com from group team-facilities
+Successfully removed veronica@canoo.com from group team-training
+Successfully removed veronica@canoo.com from group team-workplace
+Successfully removed veronica@canoo.com from group PolarionUsers
+Successfully removed veronica@canoo.com from group jira-software-users
+Successfully removed veronica@canoo.com from group Corp-Canoo
+Successfully removed veronica@canoo.com from group Oracle ERP - Prod
+Successfully removed veronica@canoo.com from group team-internal-canoo
+Successfully removed veronica@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Time Shi | DEPROVISIONED
+Attempting to remove groups for Matthew Sommer | DEPROVISIONED
+Attempting to remove groups for Aaron Srithongkham | DEPROVISIONED
+Successfully removed aaron.srithongkham@canoo.com from group Active-Fulltime
+Successfully removed aaron.srithongkham@canoo.com from group team-it-helpdesk
+Successfully removed aaron.srithongkham@canoo.com from group team-it-ops
+Successfully removed aaron.srithongkham@canoo.com from group team-training
+Successfully removed aaron.srithongkham@canoo.com from group PolarionUsers
+Successfully removed aaron.srithongkham@canoo.com from group jira-software-users
+Successfully removed aaron.srithongkham@canoo.com from group Corp-Canoo
+Successfully removed aaron.srithongkham@canoo.com from group Global Protect Users
+Successfully removed aaron.srithongkham@canoo.com from group Oracle ERP - Prod
+Successfully removed aaron.srithongkham@canoo.com from group Admin-Meraki
+Successfully removed aaron.srithongkham@canoo.com from group confluence-internal-canoo
+Successfully removed aaron.srithongkham@canoo.com from group team-internal-canoo
+Successfully removed aaron.srithongkham@canoo.com from group Global Protect - SAML
+Successfully removed aaron.srithongkham@canoo.com from group Compass_All_FT_Users
+Successfully removed aaron.srithongkham@canoo.com from group team-onboarding
+Attempting to remove groups for Laurie Stiver | DEPROVISIONED
+Successfully removed laurie@canoo.com from group Active-Fulltime
+Successfully removed laurie@canoo.com from group FileCloud Users
+Successfully removed laurie@canoo.com from group team-accounts-payable
+Successfully removed laurie@canoo.com from group team-managers
+Successfully removed laurie@canoo.com from group team-training
+Successfully removed laurie@canoo.com from group PolarionUsers
+Successfully removed laurie@canoo.com from group jira-software-users
+Successfully removed laurie@canoo.com from group Corp-Canoo
+Successfully removed laurie@canoo.com from group Global Protect Users
+Successfully removed laurie@canoo.com from group Oracle ERP - Prod
+Successfully removed laurie@canoo.com from group team-internal-canoo
+Successfully removed laurie@canoo.com from group Oracle ERP - Testing
+Successfully removed laurie@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for John Suing | DEPROVISIONED
+Successfully removed john.suing@canoo.com from group Active-Fulltime
+Successfully removed john.suing@canoo.com from group team-in-house-manufacturing
+Successfully removed john.suing@canoo.com from group team-training
+Successfully removed john.suing@canoo.com from group PolarionUsers
+Successfully removed john.suing@canoo.com from group jira-software-users
+Successfully removed john.suing@canoo.com from group team-vehicle-shop
+Attempting to remove groups for Oscar Talvitie | DEPROVISIONED
+Successfully removed oscar@canoo.com from group Active-Fulltime
+Successfully removed oscar@canoo.com from group team-training
+Successfully removed oscar@canoo.com from group PolarionUsers
+Successfully removed oscar@canoo.com from group jira-software-users
+Successfully removed oscar@canoo.com from group Corp-Canoo
+Successfully removed oscar@canoo.com from group Oracle ERP - Prod
+Successfully removed oscar@canoo.com from group team-internal-canoo
+Attempting to remove groups for Michael Tang | DEPROVISIONED
+Attempting to remove groups for Nico Taormina | DEPROVISIONED
+Successfully removed nico@canoo.com from group Active-Fulltime
+Successfully removed nico@canoo.com from group team-operations
+Successfully removed nico@canoo.com from group team-training
+Successfully removed nico@canoo.com from group team-sourcing
+Successfully removed nico@canoo.com from group team-purchasing
+Successfully removed nico@canoo.com from group PolarionUsers
+Successfully removed nico@canoo.com from group jira-software-users
+Successfully removed nico@canoo.com from group Corp-Canoo
+Attempting to remove groups for test test | DEPROVISIONED
+Successfully removed ittest@canoo.com from group Active-Fulltime
+Attempting to remove groups for Bob Wolfley | DEPROVISIONED
+Successfully removed bob.wolfley@canoo.com from group Active-Fulltime
+Successfully removed bob.wolfley@canoo.com from group team-product-launch
+Successfully removed bob.wolfley@canoo.com from group team-training
+Successfully removed bob.wolfley@canoo.com from group PolarionUsers
+Successfully removed bob.wolfley@canoo.com from group jira-software-users
+Successfully removed bob.wolfley@canoo.com from group Corp-Canoo
+Successfully removed bob.wolfley@canoo.com from group Global Protect Users
+Successfully removed bob.wolfley@canoo.com from group Oracle ERP - Prod
+Successfully removed bob.wolfley@canoo.com from group team-internal-canoo
+Successfully removed bob.wolfley@canoo.com from group Compass_All_FT_Users
+Successfully removed bob.wolfley@canoo.com from group team-communications-marketing
+Attempting to remove groups for Huan Wu | DEPROVISIONED
+Attempting to remove groups for Yao Wu | DEPROVISIONED
+Attempting to remove groups for Chen Xin | DEPROVISIONED
+Successfully removed chen@canoo.com from group Active-Fulltime
+Successfully removed chen@canoo.com from group team-battery
+Successfully removed chen@canoo.com from group team-training
+Successfully removed chen@canoo.com from group PolarionUsers
+Successfully removed chen@canoo.com from group jira-software-users
+Successfully removed chen@canoo.com from group Corp-Canoo
+Successfully removed chen@canoo.com from group team-battery-test
+Successfully removed chen@canoo.com from group Global Protect Users
+Successfully removed chen@canoo.com from group Oracle ERP - Prod
+Successfully removed chen@canoo.com from group team-internal-canoo
+Attempting to remove groups for Larry Xiong | DEPROVISIONED
+Attempting to remove groups for Dan Xu | DEPROVISIONED
+Attempting to remove groups for Neo Xu | DEPROVISIONED
+Attempting to remove groups for Aditya Yerra | DEPROVISIONED
+Successfully removed aditya.yerra@canoo.com from group Active-Fulltime
+Successfully removed aditya.yerra@canoo.com from group FileCloud Users
+Successfully removed aditya.yerra@canoo.com from group team-closures
+Successfully removed aditya.yerra@canoo.com from group team-training
+Successfully removed aditya.yerra@canoo.com from group PolarionUsers
+Successfully removed aditya.yerra@canoo.com from group jira-software-users
+Successfully removed aditya.yerra@canoo.com from group Corp-Canoo
+Successfully removed aditya.yerra@canoo.com from group Global Protect Users
+Successfully removed aditya.yerra@canoo.com from group Oracle ERP - Prod
+Successfully removed aditya.yerra@canoo.com from group team-internal-canoo
+Successfully removed aditya.yerra@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Angela Yoeurng | DEPROVISIONED
+Attempting to remove groups for Demetrio Zago | DEPROVISIONED
+Attempting to remove groups for Xochilt Zelaya | DEPROVISIONED
+Successfully removed xochilt.zelaya@canoo.com from group Active-Fulltime
+Successfully removed xochilt.zelaya@canoo.com from group team-hr
+Successfully removed xochilt.zelaya@canoo.com from group team-training
+Successfully removed xochilt.zelaya@canoo.com from group PolarionUsers
+Successfully removed xochilt.zelaya@canoo.com from group jira-software-users
+Successfully removed xochilt.zelaya@canoo.com from group Corp-Canoo
+Attempting to remove groups for Tianyang Zhang | DEPROVISIONED
+Attempting to remove groups for Lu Zhang | DEPROVISIONED
+Attempting to remove groups for Yichuan Zhao | DEPROVISIONED
+Attempting to remove groups for Mike Zheng | DEPROVISIONED
+Attempting to remove groups for Andres Zhou | DEPROVISIONED
+Attempting to remove groups for Mido Zhuang | DEPROVISIONED
+Attempting to remove groups for Super Zuo | DEPROVISIONED
+Attempting to remove groups for Mohsen Erfanfar | DEPROVISIONED
+Successfully removed mohsen@canoo.com from group Active-Fulltime
+Attempting to remove groups for Angelina Espinoza | DEPROVISIONED
+Attempting to remove groups for Jorge Estevez Garcia | DEPROVISIONED
+Successfully removed jorge.estevez.garcia@canoo.com from group Active-Fulltime
+Successfully removed jorge.estevez.garcia@canoo.com from group FileCloud Users
+Successfully removed jorge.estevez.garcia@canoo.com from group team-thermal-hardware
+Successfully removed jorge.estevez.garcia@canoo.com from group team-training
+Successfully removed jorge.estevez.garcia@canoo.com from group PolarionUsers
+Successfully removed jorge.estevez.garcia@canoo.com from group jira-software-users
+Successfully removed jorge.estevez.garcia@canoo.com from group Corp-Canoo
+Successfully removed jorge.estevez.garcia@canoo.com from group Global Protect Users
+Successfully removed jorge.estevez.garcia@canoo.com from group Oracle ERP - Prod
+Successfully removed jorge.estevez.garcia@canoo.com from group team-internal-canoo
+Successfully removed jorge.estevez.garcia@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Felix Fan | DEPROVISIONED
+Successfully removed felix.fan@canoo.com from group Active-Fulltime
+Successfully removed felix.fan@canoo.com from group jira-software-users
+Attempting to remove groups for Rachel Forman | DEPROVISIONED
+Attempting to remove groups for Rengith Francis | DEPROVISIONED
+Attempting to remove groups for Kyle Frawley | DEPROVISIONED
+Successfully removed kyle.frawley@canoo.com from group Active-Fulltime
+Successfully removed kyle.frawley@canoo.com from group team-training
+Successfully removed kyle.frawley@canoo.com from group PolarionUsers
+Successfully removed kyle.frawley@canoo.com from group jira-software-users
+Attempting to remove groups for Nicolas Gilly | DEPROVISIONED
+Attempting to remove groups for Greg Gong | DEPROVISIONED
+Attempting to remove groups for Susanna Gonzalez | DEPROVISIONED
+Successfully removed susanna@canoo.com from group Active-Fulltime
+Successfully removed susanna@canoo.com from group team-training
+Successfully removed susanna@canoo.com from group PolarionUsers
+Successfully removed susanna@canoo.com from group Corp-Canoo
+Successfully removed susanna@canoo.com from group Oracle ERP - Prod
+Attempting to remove groups for Austin Gray | DEPROVISIONED
+Attempting to remove groups for Qing Gu | DEPROVISIONED
+Attempting to remove groups for Junjie Gu | DEPROVISIONED
+Attempting to remove groups for Jun Guo | DEPROVISIONED
+Attempting to remove groups for Scott Guziak | DEPROVISIONED
+Successfully removed scottedag@canoo.com from group Active-Fulltime
+Attempting to remove groups for Megan Hegg | DEPROVISIONED
+Attempting to remove groups for Lauren Herb | DEPROVISIONED
+Attempting to remove groups for David Hernandez | DEPROVISIONED
+Successfully removed david.hernandez@canoo.com from group Active-Interns
+Successfully removed david.hernandez@canoo.com from group Bitbucket_Users
+Successfully removed david.hernandez@canoo.com from group team-training
+Successfully removed david.hernandez@canoo.com from group team-vehicle-software
+Successfully removed david.hernandez@canoo.com from group PolarionUsers
+Successfully removed david.hernandez@canoo.com from group jira-software-users
+Successfully removed david.hernandez@canoo.com from group Corp-Canoo
+Successfully removed david.hernandez@canoo.com from group Global Protect Users
+Successfully removed david.hernandez@canoo.com from group jenkins-fw-developer
+Attempting to remove groups for Ivan Ho | DEPROVISIONED
+Attempting to remove groups for Grady Hofstetter | DEPROVISIONED
+Successfully removed grady.hofstetter@canoo.com from group Active-Fulltime
+Successfully removed grady.hofstetter@canoo.com from group team-adas
+Successfully removed grady.hofstetter@canoo.com from group team-training
+Successfully removed grady.hofstetter@canoo.com from group PolarionUsers
+Successfully removed grady.hofstetter@canoo.com from group jira-software-users
+Successfully removed grady.hofstetter@canoo.com from group Corp-Canoo
+Successfully removed grady.hofstetter@canoo.com from group Global Protect Users
+Successfully removed grady.hofstetter@canoo.com from group Oracle ERP - Prod
+Successfully removed grady.hofstetter@canoo.com from group team-internal-canoo
+Successfully removed grady.hofstetter@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Jason Hong | DEPROVISIONED
+Successfully removed jason.hong@canoo.com from group Active-Fulltime
+Successfully removed jason.hong@canoo.com from group team-training
+Successfully removed jason.hong@canoo.com from group jira-software-users
+Attempting to remove groups for Kiyoon Hong | DEPROVISIONED
+Attempting to remove groups for Josh Hu | DEPROVISIONED
+Attempting to remove groups for Molly Huang | DEPROVISIONED
+Attempting to remove groups for Eugene Hyun | DEPROVISIONED
+Successfully removed eugene.hyun@canoo.com from group Active-Fulltime
+Attempting to remove groups for Marco Isabella | DEPROVISIONED
+Attempting to remove groups for Tyler Jacobs | DEPROVISIONED
+Attempting to remove groups for Mark Korich | DEPROVISIONED
+Attempting to remove groups for Ulrich Kranz | DEPROVISIONED
+Successfully removed ulrich@canoo.com from group Active-Fulltime
+Successfully removed ulrich@canoo.com from group team-managers
+Successfully removed ulrich@canoo.com from group team-training
+Successfully removed ulrich@canoo.com from group team-program-management
+Successfully removed ulrich@canoo.com from group PolarionUsers
+Successfully removed ulrich@canoo.com from group jira-software-users
+Successfully removed ulrich@canoo.com from group Corp-Canoo
+Successfully removed ulrich@canoo.com from group Global Protect Users
+Successfully removed ulrich@canoo.com from group Oracle ERP - Prod
+Successfully removed ulrich@canoo.com from group team-internal-canoo
+Successfully removed ulrich@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed ulrich@canoo.com from group Compass_All_FT_Users
+Successfully removed ulrich@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Successfully removed ulrich@canoo.com from group Compass_Executive_Dashboard_Viewer
+Attempting to remove groups for Stefan Krause | DEPROVISIONED
+Successfully removed stefan@canoo.com from group Active-Fulltime
+Successfully removed stefan@canoo.com from group team-managers
+Successfully removed stefan@canoo.com from group team-training
+Successfully removed stefan@canoo.com from group PolarionUsers
+Successfully removed stefan@canoo.com from group jira-software-users
+Successfully removed stefan@canoo.com from group Corp-Canoo
+Successfully removed stefan@canoo.com from group Global Protect Users
+Successfully removed stefan@canoo.com from group Oracle ERP - Prod
+Attempting to remove groups for Christina Krause | DEPROVISIONED
+Successfully removed christina@canoo.com from group Active-Fulltime
+Successfully removed christina@canoo.com from group team-training
+Successfully removed christina@canoo.com from group PolarionUsers
+Successfully removed christina@canoo.com from group jira-software-users
+Attempting to remove groups for Toni KTM | DEPROVISIONED
+Successfully removed toniktm@canoo.com from group Active-Fulltime
+Attempting to remove groups for Aakash Kumar | DEPROVISIONED
+Successfully removed kumar.aakash@canoo.com from group Active-Fulltime
+Successfully removed kumar.aakash@canoo.com from group team-brakes
+Successfully removed kumar.aakash@canoo.com from group team-training
+Successfully removed kumar.aakash@canoo.com from group team-structures-skateboard
+Successfully removed kumar.aakash@canoo.com from group PolarionUsers
+Successfully removed kumar.aakash@canoo.com from group jira-software-users
+Successfully removed kumar.aakash@canoo.com from group Corp-Canoo
+Successfully removed kumar.aakash@canoo.com from group Global Protect Users
+Successfully removed kumar.aakash@canoo.com from group Oracle ERP - Prod
+Successfully removed kumar.aakash@canoo.com from group team-internal-canoo
+Attempting to remove groups for Chris LaMorte | DEPROVISIONED
+Attempting to remove groups for Jordan Leal | DEPROVISIONED
+Successfully removed jordan@canoo.com from group Active-Fulltime
+Successfully removed jordan@canoo.com from group team-training
+Successfully removed jordan@canoo.com from group PolarionUsers
+Successfully removed jordan@canoo.com from group jira-software-users
+Successfully removed jordan@canoo.com from group Corp-Canoo
+Successfully removed jordan@canoo.com from group Oracle ERP - Prod
+Successfully removed jordan@canoo.com from group team-internal-canoo
+Successfully removed jordan@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Rita Lee | DEPROVISIONED
+Successfully removed rita.lee@canoo.com from group Active-Fulltime
+Successfully removed rita.lee@canoo.com from group team-training
+Successfully removed rita.lee@canoo.com from group PolarionUsers
+Successfully removed rita.lee@canoo.com from group jira-software-users
+Successfully removed rita.lee@canoo.com from group Corp-Canoo
+Successfully removed rita.lee@canoo.com from group team-internal-canoo
+Attempting to remove groups for Chloe Li | DEPROVISIONED
+Attempting to remove groups for Sean Liang | DEPROVISIONED
+Attempting to remove groups for Carter Liu | DEPROVISIONED
+Successfully removed carter.liu@canoo.com from group Active-Fulltime
+Attempting to remove groups for Aswin Logan | DEPROVISIONED
+Successfully removed aswin.logan@canoo.com from group Active-Fulltime
+Successfully removed aswin.logan@canoo.com from group team-training
+Successfully removed aswin.logan@canoo.com from group jira-software-users
+Attempting to remove groups for Kartikeya Lonikar | DEPROVISIONED
+Successfully removed kartikeya.lonikar@canoo.com from group Active-Fulltime
+Successfully removed kartikeya.lonikar@canoo.com from group team-training
+Successfully removed kartikeya.lonikar@canoo.com from group team-production-control
+Successfully removed kartikeya.lonikar@canoo.com from group PolarionUsers
+Successfully removed kartikeya.lonikar@canoo.com from group jira-software-users
+Successfully removed kartikeya.lonikar@canoo.com from group Corp-Canoo
+Successfully removed kartikeya.lonikar@canoo.com from group team-vehicle-shop
+Successfully removed kartikeya.lonikar@canoo.com from group Oracle ERP - Prod
+Successfully removed kartikeya.lonikar@canoo.com from group team-internal-canoo
+Attempting to remove groups for Manny Lopez | DEPROVISIONED
+Attempting to remove groups for Manuel Lopez | DEPROVISIONED
+Successfully removed manuel.lopez@canoo.com from group Active-Fulltime
+Attempting to remove groups for Richard Lucht | DEPROVISIONED
+Successfully removed richard.lucht@canoo.com from group Active-Fulltime
+Attempting to remove groups for Yulia Luo | DEPROVISIONED
+Attempting to remove groups for Richard Magness | DEPROVISIONED
+Attempting to remove groups for Alex Marcinkowski | DEPROVISIONED
+Successfully removed alex@canoo.com from group Active-Fulltime
+Successfully removed alex@canoo.com from group team-training
+Successfully removed alex@canoo.com from group PolarionUsers
+Successfully removed alex@canoo.com from group jira-software-users
+Successfully removed alex@canoo.com from group Corp-Canoo
+Successfully removed alex@canoo.com from group Oracle ERP - Prod
+Successfully removed alex@canoo.com from group team-internal-canoo
+Successfully removed alex@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Patrick Martin | DEPROVISIONED
+Successfully removed patrickm@canoo.com from group Active-Fulltime
+Successfully removed patrickm@canoo.com from group team-training
+Successfully removed patrickm@canoo.com from group team-studio-engineering
+Successfully removed patrickm@canoo.com from group PolarionUsers
+Successfully removed patrickm@canoo.com from group jira-software-users
+Successfully removed patrickm@canoo.com from group Corp-Canoo
+Successfully removed patrickm@canoo.com from group Global Protect Users
+Successfully removed patrickm@canoo.com from group Oracle ERP - Prod
+Successfully removed patrickm@canoo.com from group team-internal-canoo
+Successfully removed patrickm@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Isaac Meadows | DEPROVISIONED
+Successfully removed isaac@canoo.com from group Active-Fulltime
+Successfully removed isaac@canoo.com from group JfrogSoftware
+Successfully removed isaac@canoo.com from group team-adas
+Successfully removed isaac@canoo.com from group team-health-and-safety
+Successfully removed isaac@canoo.com from group team-training
+Successfully removed isaac@canoo.com from group team-powertrain-prototype-builds
+Successfully removed isaac@canoo.com from group team-electrical-low-voltage
+Successfully removed isaac@canoo.com from group PolarionUsers
+Successfully removed isaac@canoo.com from group jira-software-users
+Successfully removed isaac@canoo.com from group Corp-Canoo
+Successfully removed isaac@canoo.com from group Global Protect Users
+Successfully removed isaac@canoo.com from group Oracle ERP - Prod
+Successfully removed isaac@canoo.com from group team-internal-canoo
+Successfully removed isaac@canoo.com from group team-systems
+Successfully removed isaac@canoo.com from group SWOPS_Ultron_Overall_View
+Successfully removed isaac@canoo.com from group Compass_All_FT_Users
+Successfully removed isaac@canoo.com from group SauronUsers
+Successfully removed isaac@canoo.com from group SWOPS_Ultron_HWCONFIG_Admin
+Successfully removed isaac@canoo.com from group SWOPS_Ultron_HWCONFIG_Access
+Successfully removed isaac@canoo.com from group SWOPS_Hades_Software_Tester
+Successfully removed isaac@canoo.com from group SWOPS_Ultron_Vehicle_Package_CRUD
+Successfully removed isaac@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed isaac@canoo.com from group Openpath - Fulltime
+Successfully removed isaac@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Ajay Morya | DEPROVISIONED
+Attempting to remove groups for Andy Mykrantz | DEPROVISIONED
+Attempting to remove groups for Priyanka Nale | DEPROVISIONED
+Successfully removed priyanka.nale@canoo.com from group Active-Fulltime
+Attempting to remove groups for Christian Nault | DEPROVISIONED
+Successfully removed christiann@canoo.com from group Active-Fulltime
+Attempting to remove groups for Jenna Norman | DEPROVISIONED
+Successfully removed jenna.norman@canoo.com from group Active-Fulltime
+Attempting to remove groups for Brian Oh | DEPROVISIONED
+Attempting to remove groups for Socrates Orozco | DEPROVISIONED
+Attempting to remove groups for Luis Pietri | DEPROVISIONED
+Successfully removed luis@canoo.com from group Active-Fulltime
+Successfully removed luis@canoo.com from group team-accounts-payable
+Successfully removed luis@canoo.com from group team-training
+Successfully removed luis@canoo.com from group PolarionUsers
+Successfully removed luis@canoo.com from group jira-software-users
+Successfully removed luis@canoo.com from group Corp-Canoo
+Successfully removed luis@canoo.com from group Global Protect Users
+Successfully removed luis@canoo.com from group Oracle ERP - Prod
+Successfully removed luis@canoo.com from group team-internal-canoo
+Successfully removed luis@canoo.com from group Oracle ERP - Testing
+Successfully removed luis@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Meera Pisharody | DEPROVISIONED
+Successfully removed meera.pisharody@canoo.com from group Active-Fulltime
+Successfully removed meera.pisharody@canoo.com from group team-health-and-safety
+Successfully removed meera.pisharody@canoo.com from group team-hr
+Successfully removed meera.pisharody@canoo.com from group team-training
+Successfully removed meera.pisharody@canoo.com from group PolarionUsers
+Successfully removed meera.pisharody@canoo.com from group jira-software-users
+Successfully removed meera.pisharody@canoo.com from group Corp-Canoo
+Successfully removed meera.pisharody@canoo.com from group Oracle ERP - Prod
+Successfully removed meera.pisharody@canoo.com from group team-internal-canoo
+Successfully removed meera.pisharody@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed meera.pisharody@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Richard Qian | DEPROVISIONED
+Attempting to remove groups for John Radcliffe | DEPROVISIONED
+Successfully removed johnr@canoo.com from group Active-Fulltime
+Attempting to remove groups for Reece Ticotin | DEPROVISIONED
+Successfully removed reece.ticotin@canoo.com from group Active-Fulltime
+Successfully removed reece.ticotin@canoo.com from group Bitbucket_Users
+Successfully removed reece.ticotin@canoo.com from group FileCloud Users
+Successfully removed reece.ticotin@canoo.com from group team-aerodynamics
+Successfully removed reece.ticotin@canoo.com from group team-powertrain-propulsion-testing
+Successfully removed reece.ticotin@canoo.com from group team-training
+Successfully removed reece.ticotin@canoo.com from group PolarionUsers
+Successfully removed reece.ticotin@canoo.com from group Developer
+Successfully removed reece.ticotin@canoo.com from group jira-software-users
+Successfully removed reece.ticotin@canoo.com from group Rescale Users
+Successfully removed reece.ticotin@canoo.com from group Corp-Canoo
+Successfully removed reece.ticotin@canoo.com from group Global Protect Users
+Successfully removed reece.ticotin@canoo.com from group Oracle ERP - Prod
+Successfully removed reece.ticotin@canoo.com from group Oracle Support
+Successfully removed reece.ticotin@canoo.com from group team-internal-canoo
+Successfully removed reece.ticotin@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed reece.ticotin@canoo.com from group Compass_All_FT_Users
+Successfully removed reece.ticotin@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Successfully removed reece.ticotin@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed reece.ticotin@canoo.com from group Openpath - Design
+Successfully removed reece.ticotin@canoo.com from group Openpath - Interns
+Successfully removed reece.ticotin@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Suranga Uduwage | DEPROVISIONED
+Successfully removed suranga@canoo.com from group Active-Fulltime
+Attempting to remove groups for Dheemanth Uppalapati | DEPROVISIONED
+Successfully removed dheemanth@canoo.com from group Active-Fulltime
+Successfully removed dheemanth@canoo.com from group JenkinsUsers
+Successfully removed dheemanth@canoo.com from group Bitbucket_Users
+Successfully removed dheemanth@canoo.com from group FileCloud Users
+Successfully removed dheemanth@canoo.com from group team-adas
+Successfully removed dheemanth@canoo.com from group team-training
+Successfully removed dheemanth@canoo.com from group team-electrical-low-voltage
+Successfully removed dheemanth@canoo.com from group PolarionUsers
+Successfully removed dheemanth@canoo.com from group Developer
+Successfully removed dheemanth@canoo.com from group jira-software-users
+Successfully removed dheemanth@canoo.com from group Corp-Canoo
+Successfully removed dheemanth@canoo.com from group Global Protect Users
+Successfully removed dheemanth@canoo.com from group Oracle ERP - Prod
+Successfully removed dheemanth@canoo.com from group team-internal-canoo
+Successfully removed dheemanth@canoo.com from group SWOPS_Ultron_Overall_View
+Successfully removed dheemanth@canoo.com from group Compass_All_FT_Users
+Successfully removed dheemanth@canoo.com from group jenkins-fw-developer
+Successfully removed dheemanth@canoo.com from group SauronUsers
+Successfully removed dheemanth@canoo.com from group LucidChart View-only Users
+Successfully removed dheemanth@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed dheemanth@canoo.com from group Openpath - Fulltime
+Successfully removed dheemanth@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Rasmus van der Colff | DEPROVISIONED
+Successfully removed rasmus@canoo.com from group Active-Fulltime
+Successfully removed rasmus@canoo.com from group team-training
+Successfully removed rasmus@canoo.com from group PolarionUsers
+Successfully removed rasmus@canoo.com from group jira-software-users
+Attempting to remove groups for Giancarlo Viganego | DEPROVISIONED
+Successfully removed giancarlo@canoo.com from group Active-Fulltime
+Successfully removed giancarlo@canoo.com from group team-exterior-design
+Successfully removed giancarlo@canoo.com from group team-training
+Successfully removed giancarlo@canoo.com from group PolarionUsers
+Successfully removed giancarlo@canoo.com from group jira-software-users
+Successfully removed giancarlo@canoo.com from group Corp-Canoo
+Successfully removed giancarlo@canoo.com from group Global Protect Users
+Successfully removed giancarlo@canoo.com from group Oracle ERP - Prod
+Successfully removed giancarlo@canoo.com from group team-internal-canoo
+Successfully removed giancarlo@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Berton Vite | DEPROVISIONED
+Attempting to remove groups for Amanda Walker | DEPROVISIONED
+Successfully removed amanda@canoo.com from group Active-Fulltime
+Successfully removed amanda@canoo.com from group FileCloud Users
+Successfully removed amanda@canoo.com from group team-health-and-safety
+Successfully removed amanda@canoo.com from group team-legal
+Successfully removed amanda@canoo.com from group team-training
+Successfully removed amanda@canoo.com from group PolarionUsers
+Successfully removed amanda@canoo.com from group jira-software-users
+Successfully removed amanda@canoo.com from group Corp-Canoo
+Successfully removed amanda@canoo.com from group Oracle ERP - Prod
+Successfully removed amanda@canoo.com from group confluence-internal-canoo
+Successfully removed amanda@canoo.com from group team-internal-canoo
+Successfully removed amanda@canoo.com from group confluence-internal-magna
+Successfully removed amanda@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Jourdan Wan | DEPROVISIONED
+Attempting to remove groups for Andrew Wang | DEPROVISIONED
+Attempting to remove groups for Peng Wang | DEPROVISIONED
+Attempting to remove groups for Josh Webster | DEPROVISIONED
+Attempting to remove groups for Victoria Wei | DEPROVISIONED
+Attempting to remove groups for Phillip Weicker | DEPROVISIONED
+Successfully removed phil@canoo.com from group Active-Fulltime
+Successfully removed phil@canoo.com from group team-ecu
+Successfully removed phil@canoo.com from group FileCloud Users
+Successfully removed phil@canoo.com from group team-battery
+Successfully removed phil@canoo.com from group team-adas
+Successfully removed phil@canoo.com from group team-health-and-safety
+Successfully removed phil@canoo.com from group team-infotainment
+Successfully removed phil@canoo.com from group team-electrical-high-voltage
+Successfully removed phil@canoo.com from group team-powertrain-hardware
+Successfully removed phil@canoo.com from group team-managers
+Successfully removed phil@canoo.com from group team-training
+Successfully removed phil@canoo.com from group team-powertrain-prototype-builds
+Successfully removed phil@canoo.com from group team-thermal-cae
+Successfully removed phil@canoo.com from group team-electrical-low-voltage
+Successfully removed phil@canoo.com from group PolarionUsers
+Successfully removed phil@canoo.com from group jira-software-users
+Successfully removed phil@canoo.com from group Corp-Canoo
+Successfully removed phil@canoo.com from group Global Protect Users
+Successfully removed phil@canoo.com from group Oracle ERP - Prod
+Successfully removed phil@canoo.com from group team-internal-canoo
+Successfully removed phil@canoo.com from group trello-software-users
+Successfully removed phil@canoo.com from group Compass_Dashboard_Admin
+Successfully removed phil@canoo.com from group Ultron_OTA_Downloader
+Attempting to remove groups for Ian Wilson | DEPROVISIONED
+Attempting to remove groups for Jessica Aguirre | DEPROVISIONED
+Attempting to remove groups for Michael Ang | DEPROVISIONED
+Successfully removed michaelang@canoo.com from group Active-Fulltime
+Successfully removed michaelang@canoo.com from group Bitbucket_Users
+Successfully removed michaelang@canoo.com from group team-training
+Successfully removed michaelang@canoo.com from group team-suspension
+Successfully removed michaelang@canoo.com from group PolarionUsers
+Successfully removed michaelang@canoo.com from group Corp-Canoo
+Successfully removed michaelang@canoo.com from group Global Protect Users
+Successfully removed michaelang@canoo.com from group Oracle ERP - Prod
+Successfully removed michaelang@canoo.com from group team-internal-canoo
+Successfully removed michaelang@canoo.com from group SWOPS_Ultron_Overall_View
+Successfully removed michaelang@canoo.com from group Compass_All_FT_Users
+Successfully removed michaelang@canoo.com from group SauronUsers
+Attempting to remove groups for Seiji Arimitsu | DEPROVISIONED
+Attempting to remove groups for Kevin Arizmendi | DEPROVISIONED
+Attempting to remove groups for Brian Austin | DEPROVISIONED
+Successfully removed briana@canoo.com from group Active-Fulltime
+Successfully removed briana@canoo.com from group FileCloud Users
+Successfully removed briana@canoo.com from group team-design-for-manufacturing
+Successfully removed briana@canoo.com from group team-manufacturing-engineering
+Successfully removed briana@canoo.com from group team-training
+Successfully removed briana@canoo.com from group team-triage
+Successfully removed briana@canoo.com from group PolarionUsers
+Successfully removed briana@canoo.com from group jira-software-users
+Successfully removed briana@canoo.com from group Corp-Canoo
+Successfully removed briana@canoo.com from group Global Protect Users
+Successfully removed briana@canoo.com from group Oracle ERP - Prod
+Successfully removed briana@canoo.com from group team-internal-canoo
+Successfully removed briana@canoo.com from group Compass_All_FT_Users
+Successfully removed briana@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed briana@canoo.com from group Openpath - Fulltime
+Successfully removed briana@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Robert Bader | DEPROVISIONED
+Successfully removed robertb@canoo.com from group team-internal-canoo
+Attempting to remove groups for Kerop Bakjejian | DEPROVISIONED
+Successfully removed kerop.bakjejian@canoo.com from group Active-Fulltime
+Attempting to remove groups for Attila Balaz | DEPROVISIONED
+Attempting to remove groups for Paul Balciunas | DEPROVISIONED
+Attempting to remove groups for Rishav Banerjee | DEPROVISIONED
+Attempting to remove groups for Angelina Baraza | DEPROVISIONED
+Attempting to remove groups for Olivier Bellin | DEPROVISIONED
+Attempting to remove groups for Marcos Bello | DEPROVISIONED
+Successfully removed marcos.bello@canoo.com from group Active-Fulltime
+Attempting to remove groups for Ellen Bennet | DEPROVISIONED
+Successfully removed ellen.bennet@canoo.com from group Active-Fulltime
+Attempting to remove groups for Gunsimar Bhatia | DEPROVISIONED
+Attempting to remove groups for Ingrid Biczkowski | DEPROVISIONED
+Successfully removed ingrid.biczkowski@canoo.com from group Active-Fulltime
+Successfully removed ingrid.biczkowski@canoo.com from group Global Protect Users
+Successfully removed ingrid.biczkowski@canoo.com from group Oracle ERP - Prod
+Successfully removed ingrid.biczkowski@canoo.com from group team-internal-canoo
+Successfully removed ingrid.biczkowski@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed ingrid.biczkowski@canoo.com from group Compass_All_FT_Users
+Successfully removed ingrid.biczkowski@canoo.com from group SWOPS_Sentry_Overall_User
+Attempting to remove groups for Matt Bogen | DEPROVISIONED
+Successfully removed matt.bogen@canoo.com from group Active-Fulltime
+Attempting to remove groups for Korynn Braden | DEPROVISIONED
+Attempting to remove groups for Tony Bui | DEPROVISIONED
+Successfully removed tony.bui@canoo.com from group Active-Fulltime
+Attempting to remove groups for Daniel Cai | DEPROVISIONED
+Attempting to remove groups for Drive Canoo | DEPROVISIONED
+Successfully removed drive.canoo@canoo.com from group Active-Fulltime
+Attempting to remove groups for test canoo the iv | DEPROVISIONED
+Successfully removed testcanooiv@canoo.com from group Active-Fulltime
+Attempting to remove groups for Peter Ceccarelli | DEPROVISIONED
+Attempting to remove groups for Zu-Ning Chen | DEPROVISIONED
+Successfully removed zu-ning@canoo.com from group Active-Fulltime
+Successfully removed zu-ning@canoo.com from group team-a-class-design-surface
+Successfully removed zu-ning@canoo.com from group team-training
+Successfully removed zu-ning@canoo.com from group PolarionUsers
+Successfully removed zu-ning@canoo.com from group Corp-Canoo
+Successfully removed zu-ning@canoo.com from group Oracle ERP - Prod
+Successfully removed zu-ning@canoo.com from group team-internal-canoo
+Attempting to remove groups for Eric Chen | DEPROVISIONED
+Attempting to remove groups for Liang Chen | DEPROVISIONED
+Attempting to remove groups for Ramon Cheng | DEPROVISIONED
+Attempting to remove groups for Kenneth Choi | DEPROVISIONED
+Successfully removed kenneth@canoo.com from group Active-Fulltime
+Successfully removed kenneth@canoo.com from group team-interior-design
+Successfully removed kenneth@canoo.com from group team-training
+Successfully removed kenneth@canoo.com from group PolarionUsers
+Successfully removed kenneth@canoo.com from group Corp-Canoo
+Successfully removed kenneth@canoo.com from group Global Protect Users
+Successfully removed kenneth@canoo.com from group Oracle ERP - Prod
+Successfully removed kenneth@canoo.com from group team-internal-canoo
+Successfully removed kenneth@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Aaron Churchill | DEPROVISIONED
+Attempting to remove groups for Luke Clarkson | DEPROVISIONED
+Successfully removed luke.clarkson@canoo.com from group Active-Fulltime
+Attempting to remove groups for Nora Cong | DEPROVISIONED
+Attempting to remove groups for Chris Conklin | DEPROVISIONED
+Successfully removed chris.conklin@canoo.com from group Active-Fulltime
+Attempting to remove groups for James Cox | DEPROVISIONED
+Attempting to remove groups for Molly Craycroft | DEPROVISIONED
+Successfully removed mollyc@canoo.com from group Active-Fulltime
+Successfully removed mollyc@canoo.com from group team-closures
+Successfully removed mollyc@canoo.com from group team-business-administration
+Successfully removed mollyc@canoo.com from group team-training
+Successfully removed mollyc@canoo.com from group team-structures-cabin
+Successfully removed mollyc@canoo.com from group team-triage
+Successfully removed mollyc@canoo.com from group team-structures-skateboard
+Successfully removed mollyc@canoo.com from group PolarionUsers
+Successfully removed mollyc@canoo.com from group Corp-Canoo
+Successfully removed mollyc@canoo.com from group Oracle ERP - Prod
+Successfully removed mollyc@canoo.com from group team-internal-canoo
+Attempting to remove groups for Julie Cyrenne | DEPROVISIONED
+Successfully removed julie.cyrenne@canoo.com from group Active-Fulltime
+Successfully removed julie.cyrenne@canoo.com from group Bitbucket_Users
+Successfully removed julie.cyrenne@canoo.com from group FileCloud Users
+Successfully removed julie.cyrenne@canoo.com from group team-operations
+Successfully removed julie.cyrenne@canoo.com from group team-it-helpdesk
+Successfully removed julie.cyrenne@canoo.com from group team-it-ops
+Successfully removed julie.cyrenne@canoo.com from group team-training
+Successfully removed julie.cyrenne@canoo.com from group team-triage
+Successfully removed julie.cyrenne@canoo.com from group PolarionUsers
+Successfully removed julie.cyrenne@canoo.com from group Corp-Canoo
+Successfully removed julie.cyrenne@canoo.com from group Global Protect Users
+Successfully removed julie.cyrenne@canoo.com from group Oracle ERP - Prod
+Successfully removed julie.cyrenne@canoo.com from group Admin-Oracle Cloud
+Successfully removed julie.cyrenne@canoo.com from group confluence-internal-canoo
+Successfully removed julie.cyrenne@canoo.com from group Oracle Support
+Successfully removed julie.cyrenne@canoo.com from group team-internal-canoo
+Successfully removed julie.cyrenne@canoo.com from group confluence-internal-magna
+Successfully removed julie.cyrenne@canoo.com from group confluence-internal-cloudworks
+Successfully removed julie.cyrenne@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed julie.cyrenne@canoo.com from group Compass_All_FT_Users
+Successfully removed julie.cyrenne@canoo.com from group confluence-internal-envorso
+Successfully removed julie.cyrenne@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Successfully removed julie.cyrenne@canoo.com from group team-oracle
+Successfully removed julie.cyrenne@canoo.com from group Oracle ERP - Dev1
+Attempting to remove groups for Anjali Daniels | DEPROVISIONED
+Successfully removed anjali@canoo.com from group Active-Fulltime
+Successfully removed anjali@canoo.com from group team-battery
+Successfully removed anjali@canoo.com from group team-training
+Successfully removed anjali@canoo.com from group PolarionUsers
+Successfully removed anjali@canoo.com from group Corp-Canoo
+Successfully removed anjali@canoo.com from group team-battery-test
+Successfully removed anjali@canoo.com from group Global Protect Users
+Successfully removed anjali@canoo.com from group Oracle ERP - Prod
+Successfully removed anjali@canoo.com from group team-internal-canoo
+Successfully removed anjali@canoo.com from group Global Protect - SAML
+Successfully removed anjali@canoo.com from group Compass_All_FT_Users
+Successfully removed anjali@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed anjali@canoo.com from group Openpath - Fulltime
+Successfully removed anjali@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Andres Delgado | DEPROVISIONED
+Successfully removed andres@canoo.com from group Active-Fulltime
+Successfully removed andres@canoo.com from group team-a-class-design-surface
+Successfully removed andres@canoo.com from group team-art-direction
+Successfully removed andres@canoo.com from group team-training
+Successfully removed andres@canoo.com from group PolarionUsers
+Successfully removed andres@canoo.com from group Corp-Canoo
+Successfully removed andres@canoo.com from group Oracle ERP - Prod
+Successfully removed andres@canoo.com from group team-internal-canoo
+Successfully removed andres@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Jackson Diebel | DEPROVISIONED
+Successfully removed jackson@canoo.com from group Active-Fulltime
+Successfully removed jackson@canoo.com from group team-powertrain-propulsion-testing
+Successfully removed jackson@canoo.com from group team-powertrain-hardware
+Successfully removed jackson@canoo.com from group team-training
+Successfully removed jackson@canoo.com from group PolarionUsers
+Successfully removed jackson@canoo.com from group jira-software-users
+Successfully removed jackson@canoo.com from group Corp-Canoo
+Successfully removed jackson@canoo.com from group Global Protect Users
+Successfully removed jackson@canoo.com from group Oracle ERP - Prod
+Successfully removed jackson@canoo.com from group team-internal-canoo
+Successfully removed jackson@canoo.com from group Compass_All_FT_Users
+Successfully removed jackson@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed jackson@canoo.com from group Openpath - Fulltime
+Successfully removed jackson@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Ritanshu Dokania | DEPROVISIONED
+Successfully removed ritanshu.dokania@canoo.com from group Active-Fulltime
+Successfully removed ritanshu.dokania@canoo.com from group team-closures
+Successfully removed ritanshu.dokania@canoo.com from group team-training
+Successfully removed ritanshu.dokania@canoo.com from group PolarionUsers
+Attempting to remove groups for Estella Duran | DEPROVISIONED
+Successfully removed estella.duran@canoo.com from group Active-Fulltime
+Attempting to remove groups for Michael Jagsch | DEPROVISIONED
+Attempting to remove groups for Suryansh Jain | DEPROVISIONED
+Attempting to remove groups for Sahil Jain | DEPROVISIONED
+Attempting to remove groups for Charlie Ji | DEPROVISIONED
+Attempting to remove groups for Bob Job | DEPROVISIONED
+Successfully removed bob.job@canoo.com from group Active-Fulltime
+Attempting to remove groups for Daniel Jurek | DEPROVISIONED
+Successfully removed daniel.jurek@canoo.com from group Active-Fulltime
+Attempting to remove groups for Preet Kang | DEPROVISIONED
+Successfully removed preet.kang@canoo.com from group Active-Fulltime
+Successfully removed preet.kang@canoo.com from group team-training
+Successfully removed preet.kang@canoo.com from group PolarionUsers
+Successfully removed preet.kang@canoo.com from group Sibros
+Successfully removed preet.kang@canoo.com from group jira-software-users
+Attempting to remove groups for Brian Kashiwamura | DEPROVISIONED
+Attempting to remove groups for Kenny Kawanishi | DEPROVISIONED
+Successfully removed kenny@canoo.com from group Active-Fulltime
+Successfully removed kenny@canoo.com from group team-battery
+Successfully removed kenny@canoo.com from group team-electrical-high-voltage
+Successfully removed kenny@canoo.com from group team-power-electronics
+Successfully removed kenny@canoo.com from group team-training
+Successfully removed kenny@canoo.com from group PolarionUsers
+Successfully removed kenny@canoo.com from group jira-software-users
+Successfully removed kenny@canoo.com from group Corp-Canoo
+Successfully removed kenny@canoo.com from group team-battery-test
+Successfully removed kenny@canoo.com from group Global Protect Users
+Successfully removed kenny@canoo.com from group Oracle ERP - Prod
+Successfully removed kenny@canoo.com from group team-internal-canoo
+Successfully removed kenny@canoo.com from group Compass_All_FT_Users
+Successfully removed kenny@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed kenny@canoo.com from group Openpath - Fulltime
+Successfully removed kenny@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Matthew Kerbel | DEPROVISIONED
+Attempting to remove groups for Salman Khan | DEPROVISIONED
+Attempting to remove groups for Jihoon Kim | DEPROVISIONED
+Attempting to remove groups for Taeho Kim | DEPROVISIONED
+Successfully removed taeho@canoo.com from group Active-Fulltime
+Successfully removed taeho@canoo.com from group team-interior-design
+Successfully removed taeho@canoo.com from group team-training
+Successfully removed taeho@canoo.com from group PolarionUsers
+Successfully removed taeho@canoo.com from group jira-software-users
+Attempting to remove groups for Ram Mohan Kokalla | DEPROVISIONED
+Attempting to remove groups for Marco Isabella | DEPROVISIONED
+Attempting to remove groups for Test for Wilson | DEPROVISIONED
+Successfully removed test.wilson@canoo.com from group Everyone-Active
+Successfully removed test.wilson@canoo.com from group team-training
+Successfully removed test.wilson@canoo.com from group jira-software-users
+Attempting to remove groups for Albert Kuo | DEPROVISIONED
+Successfully removed albert.kuo@canoo.com from group Active-Fulltime
+Successfully removed albert.kuo@canoo.com from group aws#connectedservices#Canoo_Power_User_Role_Okta#328927794502
+Successfully removed albert.kuo@canoo.com from group aws#prodtech#Admin-Role-Okta#434761209136
+Successfully removed albert.kuo@canoo.com from group JenkinsUsers
+Successfully removed albert.kuo@canoo.com from group team-product-launch
+Successfully removed albert.kuo@canoo.com from group team-training
+Successfully removed albert.kuo@canoo.com from group PolarionUsers
+Successfully removed albert.kuo@canoo.com from group Web-Developer
+Successfully removed albert.kuo@canoo.com from group jira-software-users
+Successfully removed albert.kuo@canoo.com from group vault-web-developer
+Successfully removed albert.kuo@canoo.com from group Corp-Canoo
+Successfully removed albert.kuo@canoo.com from group Global Protect Users
+Successfully removed albert.kuo@canoo.com from group team-product-software
+Successfully removed albert.kuo@canoo.com from group Oracle ERP - Prod
+Successfully removed albert.kuo@canoo.com from group team-internal-canoo
+Successfully removed albert.kuo@canoo.com from group bitbucket-software-users
+Successfully removed albert.kuo@canoo.com from group vault-cloud-web-developer
+Successfully removed albert.kuo@canoo.com from group Compass_All_FT_Users
+Successfully removed albert.kuo@canoo.com from group jenkins-in-developer
+Successfully removed albert.kuo@canoo.com from group SauronUsers
+Attempting to remove groups for Scott Phelan | DEPROVISIONED
+Successfully removed scott.phelan@canoo.com from group Active-Fulltime
+Successfully removed scott.phelan@canoo.com from group team-training
+Successfully removed scott.phelan@canoo.com from group team-structures-cae
+Successfully removed scott.phelan@canoo.com from group PolarionUsers
+Successfully removed scott.phelan@canoo.com from group jira-software-users
+Successfully removed scott.phelan@canoo.com from group Rescale Users
+Successfully removed scott.phelan@canoo.com from group Corp-Canoo
+Successfully removed scott.phelan@canoo.com from group Global Protect Users
+Successfully removed scott.phelan@canoo.com from group Oracle ERP - Prod
+Successfully removed scott.phelan@canoo.com from group team-internal-canoo
+Successfully removed scott.phelan@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Stephen Gould | DEPROVISIONED
+Successfully removed stephen.gould@canoo.com from group Active-Fulltime
+Successfully removed stephen.gould@canoo.com from group team-training
+Successfully removed stephen.gould@canoo.com from group team-sourcing
+Successfully removed stephen.gould@canoo.com from group team-program-management
+Successfully removed stephen.gould@canoo.com from group PolarionUsers
+Successfully removed stephen.gould@canoo.com from group jira-software-users
+Successfully removed stephen.gould@canoo.com from group Corp-Canoo
+Successfully removed stephen.gould@canoo.com from group Global Protect Users
+Successfully removed stephen.gould@canoo.com from group Oracle ERP - Prod
+Successfully removed stephen.gould@canoo.com from group team-internal-canoo
+Successfully removed stephen.gould@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed stephen.gould@canoo.com from group Compass_All_FT_Users
+Successfully removed stephen.gould@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Successfully removed stephen.gould@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed stephen.gould@canoo.com from group Openpath - Fulltime
+Attempting to remove groups for Jason Sylvestre | DEPROVISIONED
+Successfully removed jason.sylvestre@canoo.com from group Active-Contractors
+Successfully removed jason.sylvestre@canoo.com from group team-training
+Successfully removed jason.sylvestre@canoo.com from group jira-software-users
+Successfully removed jason.sylvestre@canoo.com from group Corp-Canoo
+Attempting to remove groups for Alan Liu | DEPROVISIONED
+Attempting to remove groups for Luke Amen | DEPROVISIONED
+Attempting to remove groups for Ben Zhai | DEPROVISIONED
+Successfully removed ben.zhai@canoo.com from group Active-Fulltime
+Successfully removed ben.zhai@canoo.com from group jira-software-users
+Successfully removed ben.zhai@canoo.com from group team-internal-canoo
+Attempting to remove groups for Steve Fan | DEPROVISIONED
+Successfully removed steve.fan@canoo.com from group Active-Fulltime
+Successfully removed steve.fan@canoo.com from group team-internal-canoo
+Attempting to remove groups for Luca Perrone | DEPROVISIONED
+Attempting to remove groups for Gavin Dan | DEPROVISIONED
+Attempting to remove groups for Yiqing Zhao | DEPROVISIONED
+Attempting to remove groups for Taegeon Lee | DEPROVISIONED
+Attempting to remove groups for Brady Jackson | DEPROVISIONED
+Successfully removed brady.jackson@canoo.com from group Active-Fulltime
+Successfully removed brady.jackson@canoo.com from group FileCloud Users
+Successfully removed brady.jackson@canoo.com from group team-adas
+Successfully removed brady.jackson@canoo.com from group team-training
+Successfully removed brady.jackson@canoo.com from group team-electrical-low-voltage
+Successfully removed brady.jackson@canoo.com from group PolarionUsers
+Successfully removed brady.jackson@canoo.com from group jira-software-users
+Successfully removed brady.jackson@canoo.com from group Global Protect Users
+Successfully removed brady.jackson@canoo.com from group Oracle ERP - Prod
+Successfully removed brady.jackson@canoo.com from group team-internal-canoo
+Successfully removed brady.jackson@canoo.com from group team-systems
+Successfully removed brady.jackson@canoo.com from group team-functional-safety
+Successfully removed brady.jackson@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Vijay Palanikumar | DEPROVISIONED
+Successfully removed vijay.palanikumar@canoo.com from group Active-Fulltime
+Successfully removed vijay.palanikumar@canoo.com from group team-structures-cabin
+Successfully removed vijay.palanikumar@canoo.com from group jira-software-users
+Successfully removed vijay.palanikumar@canoo.com from group team-internal-canoo
+Attempting to remove groups for Kunio Yasuda | DEPROVISIONED
+Attempting to remove groups for Walter Wagner | DEPROVISIONED
+Successfully removed walter.wagner@canoo.com from group team-structures-skateboard
+Successfully removed walter.wagner@canoo.com from group jira-software-users
+Successfully removed walter.wagner@canoo.com from group O365
+Successfully removed walter.wagner@canoo.com from group team-internal-canoo
+Attempting to remove groups for Felipe Souza de Barros | DEPROVISIONED
+Successfully removed felipe.barros@canoo.com from group jira-software-users
+Successfully removed felipe.barros@canoo.com from group O365
+Attempting to remove groups for José Carlos Jiménez | DEPROVISIONED
+Successfully removed jose.jimenez@canoo.com from group team-structures-skateboard
+Successfully removed jose.jimenez@canoo.com from group jira-software-users
+Successfully removed jose.jimenez@canoo.com from group O365
+Successfully removed jose.jimenez@canoo.com from group team-internal-canoo
+Attempting to remove groups for Cesar  Alejandro Trujillo Domínguez | DEPROVISIONED
+Successfully removed cesar.dominguez@canoo.com from group team-structures-skateboard
+Successfully removed cesar.dominguez@canoo.com from group jira-software-users
+Successfully removed cesar.dominguez@canoo.com from group O365
+Successfully removed cesar.dominguez@canoo.com from group team-internal-canoo
+Attempting to remove groups for Ramon Roman | DEPROVISIONED
+Successfully removed ramon.roman@canoo.com from group team-structures-skateboard
+Successfully removed ramon.roman@canoo.com from group jira-software-users
+Successfully removed ramon.roman@canoo.com from group O365
+Successfully removed ramon.roman@canoo.com from group team-internal-canoo
+Attempting to remove groups for Rodrigo Galdino | DEPROVISIONED
+Attempting to remove groups for Kelly Yonashiro | DEPROVISIONED
+Successfully removed kelly.yonashiro@canoo.com from group Active-Fulltime
+Successfully removed kelly.yonashiro@canoo.com from group team-hr
+Successfully removed kelly.yonashiro@canoo.com from group team-training
+Successfully removed kelly.yonashiro@canoo.com from group jira-software-users
+Successfully removed kelly.yonashiro@canoo.com from group Corp-Canoo
+Successfully removed kelly.yonashiro@canoo.com from group Global Protect Users
+Successfully removed kelly.yonashiro@canoo.com from group Oracle ERP - Prod
+Successfully removed kelly.yonashiro@canoo.com from group team-internal-canoo
+Successfully removed kelly.yonashiro@canoo.com from group Compass_All_FT_Users
+Successfully removed kelly.yonashiro@canoo.com from group team-onboarding
+Attempting to remove groups for Chris Jones | DEPROVISIONED
+Successfully removed chris.jones@canoo.com from group Active-Fulltime
+Successfully removed chris.jones@canoo.com from group FileCloud Users
+Successfully removed chris.jones@canoo.com from group team-training
+Successfully removed chris.jones@canoo.com from group team-program-management
+Successfully removed chris.jones@canoo.com from group team-structures-cabin
+Successfully removed chris.jones@canoo.com from group team-structures-skateboard
+Successfully removed chris.jones@canoo.com from group PolarionUsers
+Successfully removed chris.jones@canoo.com from group jira-software-users
+Successfully removed chris.jones@canoo.com from group Global Protect Users
+Successfully removed chris.jones@canoo.com from group Oracle ERP - Prod
+Successfully removed chris.jones@canoo.com from group team-internal-canoo
+Successfully removed chris.jones@canoo.com from group Compass_Dashboard_Viewer
+Attempting to remove groups for Nathan Gambino | DEPROVISIONED
+Successfully removed nathan.gambino@canoo.com from group Active-Fulltime
+Successfully removed nathan.gambino@canoo.com from group team-internal-canoo
+Attempting to remove groups for Vitor Osanai | DEPROVISIONED
+Successfully removed vitor.osanai@canoo.com from group Active-Fulltime
+Successfully removed vitor.osanai@canoo.com from group team-internal-canoo
+Attempting to remove groups for Sumanth Nallabolu | DEPROVISIONED
+Successfully removed sumanth.nallabolu@canoo.com from group Active-Fulltime
+Successfully removed sumanth.nallabolu@canoo.com from group team-ecu
+Successfully removed sumanth.nallabolu@canoo.com from group PolarionUsers
+Successfully removed sumanth.nallabolu@canoo.com from group jira-software-users
+Successfully removed sumanth.nallabolu@canoo.com from group Corp-Canoo
+Successfully removed sumanth.nallabolu@canoo.com from group Global Protect Users
+Successfully removed sumanth.nallabolu@canoo.com from group team-internal-canoo
+Attempting to remove groups for Angel Rey | DEPROVISIONED
+Successfully removed angel.rey@canoo.com from group Active-Fulltime
+Successfully removed angel.rey@canoo.com from group team-adas
+Successfully removed angel.rey@canoo.com from group team-electrical-low-voltage
+Successfully removed angel.rey@canoo.com from group PolarionUsers
+Successfully removed angel.rey@canoo.com from group jira-software-users
+Successfully removed angel.rey@canoo.com from group Corp-Canoo
+Successfully removed angel.rey@canoo.com from group Global Protect Users
+Successfully removed angel.rey@canoo.com from group team-internal-canoo
+Attempting to remove groups for Mets Kramer | DEPROVISIONED
+Successfully removed mets.kramer@canoo.com from group Active-Fulltime
+Successfully removed mets.kramer@canoo.com from group team-training
+Successfully removed mets.kramer@canoo.com from group PolarionUsers
+Successfully removed mets.kramer@canoo.com from group jira-software-users
+Successfully removed mets.kramer@canoo.com from group Global Protect Users
+Successfully removed mets.kramer@canoo.com from group team-internal-canoo
+Successfully removed mets.kramer@canoo.com from group Oracle ERP - Testing
+Successfully removed mets.kramer@canoo.com from group vault-compass-postgres-testenv-admin
+Successfully removed mets.kramer@canoo.com from group SWOPS_Ultron_Overall_View
+Successfully removed mets.kramer@canoo.com from group aws#businessservice#Canoo_Power_User_Role_Okta#087233920366
+Attempting to remove groups for Eugenio Ontiveros | DEPROVISIONED
+Successfully removed eugenio.ontiveros@canoo.com from group Active-Fulltime
+Successfully removed eugenio.ontiveros@canoo.com from group team-adas
+Successfully removed eugenio.ontiveros@canoo.com from group team-training
+Successfully removed eugenio.ontiveros@canoo.com from group team-electrical-low-voltage
+Successfully removed eugenio.ontiveros@canoo.com from group PolarionUsers
+Successfully removed eugenio.ontiveros@canoo.com from group jira-software-users
+Successfully removed eugenio.ontiveros@canoo.com from group Corp-Canoo
+Successfully removed eugenio.ontiveros@canoo.com from group Global Protect Users
+Successfully removed eugenio.ontiveros@canoo.com from group Oracle ERP - Prod
+Successfully removed eugenio.ontiveros@canoo.com from group team-internal-canoo
+Successfully removed eugenio.ontiveros@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Kevin Damoa | DEPROVISIONED
+Successfully removed kevin.damoa@canoo.com from group Active-Fulltime
+Successfully removed kevin.damoa@canoo.com from group FileCloud Users
+Successfully removed kevin.damoa@canoo.com from group team-manufacturing-quality
+Successfully removed kevin.damoa@canoo.com from group team-manufacturing-engineering
+Successfully removed kevin.damoa@canoo.com from group team-training
+Successfully removed kevin.damoa@canoo.com from group team-production-control
+Successfully removed kevin.damoa@canoo.com from group PolarionUsers
+Successfully removed kevin.damoa@canoo.com from group Corp-Canoo
+Successfully removed kevin.damoa@canoo.com from group Global Protect Users
+Successfully removed kevin.damoa@canoo.com from group Oracle ERP - Prod
+Successfully removed kevin.damoa@canoo.com from group confluence-internal-canoo
+Successfully removed kevin.damoa@canoo.com from group team-internal-canoo
+Successfully removed kevin.damoa@canoo.com from group Oracle ERP - Testing
+Successfully removed kevin.damoa@canoo.com from group confluence-internal-magna
+Successfully removed kevin.damoa@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed kevin.damoa@canoo.com from group Compass_Dashboard_Admin
+Successfully removed kevin.damoa@canoo.com from group Compass_All_FT_Users
+Successfully removed kevin.damoa@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Successfully removed kevin.damoa@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed kevin.damoa@canoo.com from group Openpath - Fulltime
+Successfully removed kevin.damoa@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Iordan Borunda | DEPROVISIONED
+Successfully removed iordan.borunda@canoo.com from group Active-Fulltime
+Successfully removed iordan.borunda@canoo.com from group team-adas
+Successfully removed iordan.borunda@canoo.com from group team-training
+Successfully removed iordan.borunda@canoo.com from group team-electrical-low-voltage
+Successfully removed iordan.borunda@canoo.com from group PolarionUsers
+Successfully removed iordan.borunda@canoo.com from group team-internal-canoo
+Attempting to remove groups for Arunteja Annadatha | DEPROVISIONED
+Successfully removed arunteja.annadatha@canoo.com from group Active-Fulltime
+Successfully removed arunteja.annadatha@canoo.com from group FileCloud Users
+Successfully removed arunteja.annadatha@canoo.com from group team-operations
+Successfully removed arunteja.annadatha@canoo.com from group team-training
+Successfully removed arunteja.annadatha@canoo.com from group jira-software-users
+Successfully removed arunteja.annadatha@canoo.com from group Global Protect Users
+Successfully removed arunteja.annadatha@canoo.com from group Oracle ERP - Prod
+Successfully removed arunteja.annadatha@canoo.com from group team-internal-canoo
+Successfully removed arunteja.annadatha@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed arunteja.annadatha@canoo.com from group Compass_All_FT_Users
+Successfully removed arunteja.annadatha@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Successfully removed arunteja.annadatha@canoo.com from group eQLM_Prod-Users
+Successfully removed arunteja.annadatha@canoo.com from group SWOPS_Sentry_Overall_User
+Attempting to remove groups for Rodrigo Crespo Deveze | DEPROVISIONED
+Successfully removed rodrigo.crespodeveze@canoo.com from group Active-Fulltime
+Successfully removed rodrigo.crespodeveze@canoo.com from group team-training
+Successfully removed rodrigo.crespodeveze@canoo.com from group team-structures-skateboard
+Successfully removed rodrigo.crespodeveze@canoo.com from group Corp-Canoo
+Successfully removed rodrigo.crespodeveze@canoo.com from group Global Protect Users
+Successfully removed rodrigo.crespodeveze@canoo.com from group team-internal-canoo
+Attempting to remove groups for Marcos Aaron Soto Barboza | DEPROVISIONED
+Successfully removed marcosaaron.sotobarboza@canoo.com from group Active-Fulltime
+Successfully removed marcosaaron.sotobarboza@canoo.com from group team-training
+Successfully removed marcosaaron.sotobarboza@canoo.com from group team-structures-skateboard
+Successfully removed marcosaaron.sotobarboza@canoo.com from group jira-software-users
+Successfully removed marcosaaron.sotobarboza@canoo.com from group Corp-Canoo
+Successfully removed marcosaaron.sotobarboza@canoo.com from group Global Protect Users
+Successfully removed marcosaaron.sotobarboza@canoo.com from group team-internal-canoo
+Attempting to remove groups for Adam Bigelow | DEPROVISIONED
+Successfully removed adam.bigelow@canoo.com from group Active-Fulltime
+Successfully removed adam.bigelow@canoo.com from group team-hr
+Successfully removed adam.bigelow@canoo.com from group team-training
+Successfully removed adam.bigelow@canoo.com from group team-internal-canoo
+Attempting to remove groups for Meredith Moore | DEPROVISIONED
+Successfully removed meredith.moore@canoo.com from group Active-Interns
+Successfully removed meredith.moore@canoo.com from group team-battery
+Successfully removed meredith.moore@canoo.com from group team-training
+Successfully removed meredith.moore@canoo.com from group jira-software-users
+Successfully removed meredith.moore@canoo.com from group Corp-Canoo
+Successfully removed meredith.moore@canoo.com from group Global Protect Users
+Successfully removed meredith.moore@canoo.com from group team-internal-canoo
+Attempting to remove groups for Cy Tymony | DEPROVISIONED
+Attempting to remove groups for Compass Dev-Auth | DEPROVISIONED
+Successfully removed compass-dev-auth@canoo.com from group ReadOnly-Admin
+Attempting to remove groups for Gabriella Zanengo | DEPROVISIONED
+Successfully removed gabriella.zanengo@canoo.com from group Active-Contractors
+Successfully removed gabriella.zanengo@canoo.com from group team-training
+Successfully removed gabriella.zanengo@canoo.com from group jira-software-users
+Successfully removed gabriella.zanengo@canoo.com from group team-internal-canoo
+Attempting to remove groups for Vibha Manvi | DEPROVISIONED
+Successfully removed vibha.manvi@canoo.com from group Active-Contractors
+Successfully removed vibha.manvi@canoo.com from group team-adas
+Successfully removed vibha.manvi@canoo.com from group jira-software-users
+Successfully removed vibha.manvi@canoo.com from group Corp-Canoo
+Successfully removed vibha.manvi@canoo.com from group Global Protect Users
+Successfully removed vibha.manvi@canoo.com from group team-internal-canoo
+Attempting to remove groups for Chris Maestas | DEPROVISIONED
+Successfully removed chris.maestas@canoo.com from group Active-Fulltime
+Successfully removed chris.maestas@canoo.com from group team-exterior-design
+Successfully removed chris.maestas@canoo.com from group team-training
+Successfully removed chris.maestas@canoo.com from group jira-software-users
+Successfully removed chris.maestas@canoo.com from group Corp-Canoo
+Successfully removed chris.maestas@canoo.com from group Global Protect Users
+Successfully removed chris.maestas@canoo.com from group Oracle ERP - Prod
+Successfully removed chris.maestas@canoo.com from group team-internal-canoo
+Successfully removed chris.maestas@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Susan Estrada | DEPROVISIONED
+Successfully removed susan.estrada@canoo.com from group Active-Contractors
+Successfully removed susan.estrada@canoo.com from group team-training
+Successfully removed susan.estrada@canoo.com from group jira-software-users
+Successfully removed susan.estrada@canoo.com from group Corp-Canoo
+Successfully removed susan.estrada@canoo.com from group team-internal-canoo
+Attempting to remove groups for DJ Kim | DEPROVISIONED
+Successfully removed dj.kim@canoo.com from group Active-Fulltime
+Successfully removed dj.kim@canoo.com from group team-adas
+Successfully removed dj.kim@canoo.com from group team-training
+Successfully removed dj.kim@canoo.com from group PolarionUsers
+Successfully removed dj.kim@canoo.com from group jira-software-users
+Successfully removed dj.kim@canoo.com from group Corp-Canoo
+Successfully removed dj.kim@canoo.com from group Global Protect Users
+Successfully removed dj.kim@canoo.com from group Oracle ERP - Prod
+Successfully removed dj.kim@canoo.com from group team-internal-canoo
+Successfully removed dj.kim@canoo.com from group Compass_All_FT_Users
+Successfully removed dj.kim@canoo.com from group SWOPS_Sentry_Overall_User
+Attempting to remove groups for Nikhil Patel | DEPROVISIONED
+Successfully removed nikhil.patel@canoo.com from group Active-Fulltime
+Successfully removed nikhil.patel@canoo.com from group team-operations
+Successfully removed nikhil.patel@canoo.com from group team-training
+Successfully removed nikhil.patel@canoo.com from group jira-software-users
+Successfully removed nikhil.patel@canoo.com from group Corp-Canoo
+Successfully removed nikhil.patel@canoo.com from group Global Protect Users
+Successfully removed nikhil.patel@canoo.com from group Oracle ERP - Prod
+Successfully removed nikhil.patel@canoo.com from group team-internal-canoo
+Successfully removed nikhil.patel@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed nikhil.patel@canoo.com from group Compass_All_FT_Users
+Successfully removed nikhil.patel@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Attempting to remove groups for Tony Chung | DEPROVISIONED
+Successfully removed tony.chung@canoo.com from group Active-Fulltime
+Successfully removed tony.chung@canoo.com from group FileCloud Users
+Successfully removed tony.chung@canoo.com from group team-operations
+Successfully removed tony.chung@canoo.com from group team-training
+Successfully removed tony.chung@canoo.com from group Corp-Canoo
+Successfully removed tony.chung@canoo.com from group Global Protect Users
+Successfully removed tony.chung@canoo.com from group Oracle ERP - Prod
+Successfully removed tony.chung@canoo.com from group team-internal-canoo
+Successfully removed tony.chung@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed tony.chung@canoo.com from group Compass_All_FT_Users
+Successfully removed tony.chung@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Attempting to remove groups for Davy Din | DEPROVISIONED
+Successfully removed davy.din@canoo.com from group Active-Fulltime
+Successfully removed davy.din@canoo.com from group team-in-house-manufacturing
+Successfully removed davy.din@canoo.com from group jira-software-users
+Successfully removed davy.din@canoo.com from group Corp-Canoo
+Successfully removed davy.din@canoo.com from group Global Protect Users
+Successfully removed davy.din@canoo.com from group team-internal-canoo
+Successfully removed davy.din@canoo.com from group Compass_All_FT_Users
+Successfully removed davy.din@canoo.com from group team-electronics
+Successfully removed davy.din@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed davy.din@canoo.com from group Openpath - Contractors
+Successfully removed davy.din@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Jun Imai | DEPROVISIONED
+Successfully removed jun.imai@canoo.com from group Active-Fulltime
+Successfully removed jun.imai@canoo.com from group team-art-direction
+Successfully removed jun.imai@canoo.com from group team-training
+Successfully removed jun.imai@canoo.com from group jira-software-users
+Successfully removed jun.imai@canoo.com from group Corp-Canoo
+Successfully removed jun.imai@canoo.com from group Global Protect Users
+Successfully removed jun.imai@canoo.com from group Oracle ERP - Prod
+Successfully removed jun.imai@canoo.com from group team-internal-canoo
+Successfully removed jun.imai@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Sidd Rajpoot | DEPROVISIONED
+Successfully removed sidd.rajpoot@canoo.com from group Active-Fulltime
+Successfully removed sidd.rajpoot@canoo.com from group JenkinsUsers
+Successfully removed sidd.rajpoot@canoo.com from group team-infotainment
+Successfully removed sidd.rajpoot@canoo.com from group team-training
+Successfully removed sidd.rajpoot@canoo.com from group PolarionUsers
+Successfully removed sidd.rajpoot@canoo.com from group jira-software-users
+Successfully removed sidd.rajpoot@canoo.com from group Corp-Canoo
+Successfully removed sidd.rajpoot@canoo.com from group Global Protect Users
+Successfully removed sidd.rajpoot@canoo.com from group Oracle ERP - Prod
+Successfully removed sidd.rajpoot@canoo.com from group team-internal-canoo
+Successfully removed sidd.rajpoot@canoo.com from group vault-cloud-services-developer
+Successfully removed sidd.rajpoot@canoo.com from group Compass_All_FT_Users
+Successfully removed sidd.rajpoot@canoo.com from group jenkins-in-developer
+Successfully removed sidd.rajpoot@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed sidd.rajpoot@canoo.com from group Openpath - Fulltime
+Attempting to remove groups for Vivek Singh | DEPROVISIONED
+Attempting to remove groups for Marvin Trier | DEPROVISIONED
+Successfully removed marvin.trier@canoo.com from group Active-Contractors
+Successfully removed marvin.trier@canoo.com from group jira-software-users
+Successfully removed marvin.trier@canoo.com from group Global Protect Users
+Successfully removed marvin.trier@canoo.com from group team-internal-canoo
+Attempting to remove groups for Gary Su | DEPROVISIONED
+Successfully removed gary.su@canoo.com from group Active-Fulltime
+Successfully removed gary.su@canoo.com from group FileCloud Users
+Successfully removed gary.su@canoo.com from group team-business-administration
+Successfully removed gary.su@canoo.com from group team-training
+Successfully removed gary.su@canoo.com from group jira-software-users
+Successfully removed gary.su@canoo.com from group Corp-Canoo
+Successfully removed gary.su@canoo.com from group Global Protect Users
+Successfully removed gary.su@canoo.com from group Oracle ERP - Prod
+Successfully removed gary.su@canoo.com from group team-internal-canoo
+Successfully removed gary.su@canoo.com from group Compass_All_FT_Users
+Successfully removed gary.su@canoo.com from group team-plans-users
+Successfully removed gary.su@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed gary.su@canoo.com from group Starcompliance_Prod-Users
+Attempting to remove groups for Joe Abi Nader | DEPROVISIONED
+Successfully removed joe.abinader@cloudworks.co from group Oracle Support
+Successfully removed joe.abinader@cloudworks.co from group External Users
+Successfully removed joe.abinader@cloudworks.co from group Oracle ERP - Testing
+Successfully removed joe.abinader@cloudworks.co from group Oracle ERP - Dev1
+Attempting to remove groups for Young Ryu | DEPROVISIONED
+Successfully removed young.ryu@canoo.com from group Active-Fulltime
+Successfully removed young.ryu@canoo.com from group team-art-direction
+Successfully removed young.ryu@canoo.com from group team-training
+Successfully removed young.ryu@canoo.com from group PolarionUsers
+Successfully removed young.ryu@canoo.com from group jira-software-users
+Successfully removed young.ryu@canoo.com from group Corp-Canoo
+Successfully removed young.ryu@canoo.com from group Global Protect Users
+Successfully removed young.ryu@canoo.com from group Oracle ERP - Prod
+Successfully removed young.ryu@canoo.com from group team-internal-canoo
+Successfully removed young.ryu@canoo.com from group Compass_All_FT_Users
+Successfully removed young.ryu@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed young.ryu@canoo.com from group Openpath - Design
+Successfully removed young.ryu@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Matthew Holtz | DEPROVISIONED
+Successfully removed matthew.holtz@canoo.com from group Active-Fulltime
+Successfully removed matthew.holtz@canoo.com from group team-business-administration
+Successfully removed matthew.holtz@canoo.com from group team-training
+Successfully removed matthew.holtz@canoo.com from group jira-software-users
+Successfully removed matthew.holtz@canoo.com from group Corp-Canoo
+Successfully removed matthew.holtz@canoo.com from group Global Protect Users
+Successfully removed matthew.holtz@canoo.com from group Oracle ERP - Prod
+Successfully removed matthew.holtz@canoo.com from group team-internal-canoo
+Successfully removed matthew.holtz@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Krishna Sharma | DEPROVISIONED
+Successfully removed krishna.sharma@cloudworks.co from group jira-software-users
+Successfully removed krishna.sharma@cloudworks.co from group Oracle Support
+Successfully removed krishna.sharma@cloudworks.co from group External Users
+Successfully removed krishna.sharma@cloudworks.co from group team-external-cloudworks
+Attempting to remove groups for Kaining Zhu | DEPROVISIONED
+Successfully removed kaining.zhu@canoo.com from group Active-Fulltime
+Successfully removed kaining.zhu@canoo.com from group team-business-administration
+Successfully removed kaining.zhu@canoo.com from group team-training
+Successfully removed kaining.zhu@canoo.com from group jira-software-users
+Successfully removed kaining.zhu@canoo.com from group Corp-Canoo
+Successfully removed kaining.zhu@canoo.com from group Global Protect Users
+Successfully removed kaining.zhu@canoo.com from group Oracle ERP - Prod
+Successfully removed kaining.zhu@canoo.com from group team-internal-canoo
+Successfully removed kaining.zhu@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Michelle Chen | DEPROVISIONED
+Successfully removed michelle.chen@canoo.com from group Active-Interns
+Successfully removed michelle.chen@canoo.com from group JfrogTest
+Successfully removed michelle.chen@canoo.com from group JenkinsUsers
+Successfully removed michelle.chen@canoo.com from group team-software-operations
+Successfully removed michelle.chen@canoo.com from group team-training
+Successfully removed michelle.chen@canoo.com from group Corp-Canoo
+Successfully removed michelle.chen@canoo.com from group Global Protect Users
+Successfully removed michelle.chen@canoo.com from group team-plm
+Successfully removed michelle.chen@canoo.com from group team-internal-canoo
+Successfully removed michelle.chen@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed michelle.chen@canoo.com from group Compass_Dashboard_Admin
+Successfully removed michelle.chen@canoo.com from group aws#connectedservices#Canoo_Developer_SWOPS_Role_Okta#328927794502
+Successfully removed michelle.chen@canoo.com from group SWOPS_Ultron_OTA_Deploy
+Successfully removed michelle.chen@canoo.com from group Compass_MPDV_Dashboard_Admin
+Successfully removed michelle.chen@canoo.com from group Compass_Executive_Dashboard_Admin
+Attempting to remove groups for Hanna Romley | DEPROVISIONED
+Successfully removed hanna.romley@canoo.com from group Active-Fulltime
+Successfully removed hanna.romley@canoo.com from group team-training
+Successfully removed hanna.romley@canoo.com from group PolarionUsers
+Successfully removed hanna.romley@canoo.com from group jira-software-users
+Successfully removed hanna.romley@canoo.com from group Corp-Canoo
+Successfully removed hanna.romley@canoo.com from group Oracle ERP - Prod
+Successfully removed hanna.romley@canoo.com from group team-internal-canoo
+Successfully removed hanna.romley@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Lauren Elliott | DEPROVISIONED
+Successfully removed lauren.elliott@canoo.com from group Active-Interns
+Successfully removed lauren.elliott@canoo.com from group team-training
+Successfully removed lauren.elliott@canoo.com from group jira-software-users
+Successfully removed lauren.elliott@canoo.com from group Corp-Canoo
+Successfully removed lauren.elliott@canoo.com from group team-internal-canoo
+Attempting to remove groups for Brendan Johnston | DEPROVISIONED
+Successfully removed brendan.johnston@canoo.com from group Active-Interns
+Successfully removed brendan.johnston@canoo.com from group Bitbucket_Users
+Successfully removed brendan.johnston@canoo.com from group team-vehicle-software
+Successfully removed brendan.johnston@canoo.com from group PolarionUsers
+Successfully removed brendan.johnston@canoo.com from group jira-software-users
+Successfully removed brendan.johnston@canoo.com from group Global Protect Users
+Successfully removed brendan.johnston@canoo.com from group team-internal-canoo
+Attempting to remove groups for Anthony Martin | DEPROVISIONED
+Successfully removed anthony.martin@canoo.com from group Active-Fulltime
+Successfully removed anthony.martin@canoo.com from group team-in-house-manufacturing
+Successfully removed anthony.martin@canoo.com from group team-training
+Successfully removed anthony.martin@canoo.com from group jira-software-users
+Successfully removed anthony.martin@canoo.com from group Corp-Canoo
+Successfully removed anthony.martin@canoo.com from group team-vehicle-shop
+Successfully removed anthony.martin@canoo.com from group Global Protect Users
+Successfully removed anthony.martin@canoo.com from group Oracle ERP - Prod
+Successfully removed anthony.martin@canoo.com from group team-internal-canoo
+Successfully removed anthony.martin@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Cyril Londechamp | DEPROVISIONED
+Successfully removed Cyril.Londechamp@canoo.com from group Active-Fulltime
+Successfully removed Cyril.Londechamp@canoo.com from group team-design-for-manufacturing
+Successfully removed Cyril.Londechamp@canoo.com from group team-manufacturing-engineering
+Successfully removed Cyril.Londechamp@canoo.com from group team-training
+Successfully removed Cyril.Londechamp@canoo.com from group PolarionUsers
+Successfully removed Cyril.Londechamp@canoo.com from group jira-software-users
+Successfully removed Cyril.Londechamp@canoo.com from group Corp-Canoo
+Successfully removed Cyril.Londechamp@canoo.com from group Global Protect Users
+Successfully removed Cyril.Londechamp@canoo.com from group Oracle ERP - Prod
+Successfully removed Cyril.Londechamp@canoo.com from group team-internal-canoo
+Successfully removed Cyril.Londechamp@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for David Blackburn | DEPROVISIONED
+Successfully removed David.Blackburn@canoo.com from group Active-Fulltime
+Successfully removed David.Blackburn@canoo.com from group team-training
+Successfully removed David.Blackburn@canoo.com from group team-studio-engineering
+Successfully removed David.Blackburn@canoo.com from group Corp-Canoo
+Successfully removed David.Blackburn@canoo.com from group Global Protect Users
+Successfully removed David.Blackburn@canoo.com from group Oracle ERP - Prod
+Successfully removed David.Blackburn@canoo.com from group team-internal-canoo
+Successfully removed David.Blackburn@canoo.com from group Compass_All_FT_Users
+Successfully removed David.Blackburn@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed David.Blackburn@canoo.com from group Openpath - Design
+Successfully removed David.Blackburn@canoo.com from group Openpath - Fulltime
+Successfully removed David.Blackburn@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Victoria_Yining Li | DEPROVISIONED
+Successfully removed Victoria_Yining.Li@canoo.com from group Active-Interns
+Successfully removed Victoria_Yining.Li@canoo.com from group JfrogTest
+Successfully removed Victoria_Yining.Li@canoo.com from group JenkinsUsers
+Successfully removed Victoria_Yining.Li@canoo.com from group team-training
+Successfully removed Victoria_Yining.Li@canoo.com from group jira-software-users
+Successfully removed Victoria_Yining.Li@canoo.com from group Corp-Canoo
+Successfully removed Victoria_Yining.Li@canoo.com from group Global Protect Users
+Successfully removed Victoria_Yining.Li@canoo.com from group team-internal-canoo
+Successfully removed Victoria_Yining.Li@canoo.com from group Compass_Dashboard_Admin
+Successfully removed Victoria_Yining.Li@canoo.com from group SWOPS_Ultron_OTA_Deploy
+Successfully removed Victoria_Yining.Li@canoo.com from group Compass_MPDV_Dashboard_Admin
+Successfully removed Victoria_Yining.Li@canoo.com from group Compass_Executive_Dashboard_Admin
+Successfully removed Victoria_Yining.Li@canoo.com from group jenkins-swops-developer
+Successfully removed Victoria_Yining.Li@canoo.com from group SWOPS_Ultron_HWCONFIG_Admin
+Successfully removed Victoria_Yining.Li@canoo.com from group SWOPS_Ultron_HWCONFIG_Access
+Attempting to remove groups for Sean Russell | DEPROVISIONED
+Successfully removed Sean.Russell@canoo.com from group Active-Fulltime
+Successfully removed Sean.Russell@canoo.com from group team-training
+Successfully removed Sean.Russell@canoo.com from group jira-software-users
+Successfully removed Sean.Russell@canoo.com from group Corp-Canoo
+Successfully removed Sean.Russell@canoo.com from group Global Protect Users
+Successfully removed Sean.Russell@canoo.com from group Oracle ERP - Prod
+Successfully removed Sean.Russell@canoo.com from group team-internal-canoo
+Successfully removed Sean.Russell@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Nicole Rodi | DEPROVISIONED
+Successfully removed nicole.rodi@canoo.com from group Active-Fulltime
+Successfully removed nicole.rodi@canoo.com from group team-hr
+Successfully removed nicole.rodi@canoo.com from group team-training
+Successfully removed nicole.rodi@canoo.com from group jira-software-users
+Successfully removed nicole.rodi@canoo.com from group Oracle ERP - Prod
+Successfully removed nicole.rodi@canoo.com from group team-internal-canoo
+Successfully removed nicole.rodi@canoo.com from group Compass_All_FT_Users
+Successfully removed nicole.rodi@canoo.com from group Compass_Executive_Dashboard_Viewer
+Successfully removed nicole.rodi@canoo.com from group LucidChart License Users
+Attempting to remove groups for Santosh Biradar | DEPROVISIONED
+Successfully removed Santosh.Biradar@canoo.com from group Active-Contractors
+Successfully removed Santosh.Biradar@canoo.com from group team-structures-cabin
+Successfully removed Santosh.Biradar@canoo.com from group Corp-Canoo
+Successfully removed Santosh.Biradar@canoo.com from group Global Protect Users
+Successfully removed Santosh.Biradar@canoo.com from group team-internal-canoo
+Attempting to remove groups for Emory Stevens | DEPROVISIONED
+Successfully removed Emory.Stevens@canoo.com from group Active-Contractors
+Successfully removed Emory.Stevens@canoo.com from group team-hr
+Successfully removed Emory.Stevens@canoo.com from group jira-software-users
+Successfully removed Emory.Stevens@canoo.com from group Corp-Canoo
+Successfully removed Emory.Stevens@canoo.com from group Global Protect Users
+Successfully removed Emory.Stevens@canoo.com from group team-internal-canoo
+Attempting to remove groups for Matt Marcus | DEPROVISIONED
+Successfully removed Matt.Marcus@canoo.com from group Active-Contractors
+Successfully removed Matt.Marcus@canoo.com from group team-hr
+Successfully removed Matt.Marcus@canoo.com from group jira-software-users
+Successfully removed Matt.Marcus@canoo.com from group Corp-Canoo
+Successfully removed Matt.Marcus@canoo.com from group Global Protect Users
+Successfully removed Matt.Marcus@canoo.com from group team-internal-canoo
+Attempting to remove groups for Sean Lahey | DEPROVISIONED
+Successfully removed Sean.Lahey@canoo.com from group Active-Contractors
+Successfully removed Sean.Lahey@canoo.com from group FileCloud Users
+Successfully removed Sean.Lahey@canoo.com from group PolarionUsers
+Successfully removed Sean.Lahey@canoo.com from group jira-software-users
+Successfully removed Sean.Lahey@canoo.com from group Corp-Canoo
+Successfully removed Sean.Lahey@canoo.com from group confluence-internal-canoo
+Successfully removed Sean.Lahey@canoo.com from group team-internal-canoo
+Attempting to remove groups for Cecilia Skinner-Grant | DEPROVISIONED
+Successfully removed Cecilia.Skinner-Grant@canoo.com from group Active-Interns
+Successfully removed Cecilia.Skinner-Grant@canoo.com from group team-training
+Successfully removed Cecilia.Skinner-Grant@canoo.com from group jira-software-users
+Successfully removed Cecilia.Skinner-Grant@canoo.com from group Corp-Canoo
+Successfully removed Cecilia.Skinner-Grant@canoo.com from group Global Protect Users
+Successfully removed Cecilia.Skinner-Grant@canoo.com from group team-internal-canoo
+Attempting to remove groups for Ryan Widgeon | DEPROVISIONED
+Successfully removed Ryan.Widgeon@canoo.com from group Active-Fulltime
+Successfully removed Ryan.Widgeon@canoo.com from group team-in-house-manufacturing
+Successfully removed Ryan.Widgeon@canoo.com from group team-product-launch
+Successfully removed Ryan.Widgeon@canoo.com from group team-training
+Successfully removed Ryan.Widgeon@canoo.com from group PolarionUsers
+Successfully removed Ryan.Widgeon@canoo.com from group jira-software-users
+Successfully removed Ryan.Widgeon@canoo.com from group Corp-Canoo
+Successfully removed Ryan.Widgeon@canoo.com from group Global Protect Users
+Successfully removed Ryan.Widgeon@canoo.com from group team-internal-canoo
+Successfully removed Ryan.Widgeon@canoo.com from group SWOPS_Ultron_Overall_View
+Successfully removed Ryan.Widgeon@canoo.com from group SauronUsers
+Attempting to remove groups for Advait Velankar | DEPROVISIONED
+Successfully removed Advait.Velankar@canoo.com from group Active-Interns
+Successfully removed Advait.Velankar@canoo.com from group JenkinsUsers
+Successfully removed Advait.Velankar@canoo.com from group Bitbucket_Users
+Successfully removed Advait.Velankar@canoo.com from group team-training
+Successfully removed Advait.Velankar@canoo.com from group PolarionUsers
+Successfully removed Advait.Velankar@canoo.com from group jira-software-users
+Successfully removed Advait.Velankar@canoo.com from group Corp-Canoo
+Successfully removed Advait.Velankar@canoo.com from group Global Protect Users
+Successfully removed Advait.Velankar@canoo.com from group team-internal-canoo
+Successfully removed Advait.Velankar@canoo.com from group jenkins-fw-developer
+Attempting to remove groups for Nidhi Choudhary | DEPROVISIONED
+Successfully removed nidhi.choudhary@cloudworks.co from group External Users
+Successfully removed nidhi.choudhary@cloudworks.co from group team-external-cloudworks
+Attempting to remove groups for Owen Kemeys | DEPROVISIONED
+Successfully removed Owen.Kemeys@canoo.com from group Active-Contractors
+Successfully removed Owen.Kemeys@canoo.com from group jira-software-users
+Successfully removed Owen.Kemeys@canoo.com from group Corp-Canoo
+Successfully removed Owen.Kemeys@canoo.com from group Global Protect Users
+Successfully removed Owen.Kemeys@canoo.com from group team-internal-canoo
+Attempting to remove groups for Jarod Doran | DEPROVISIONED
+Successfully removed Jarod.Doran@canoo.com from group Active-Fulltime
+Successfully removed Jarod.Doran@canoo.com from group team-training
+Successfully removed Jarod.Doran@canoo.com from group team-triage
+Successfully removed Jarod.Doran@canoo.com from group PolarionUsers
+Successfully removed Jarod.Doran@canoo.com from group Corp-Canoo
+Successfully removed Jarod.Doran@canoo.com from group Global Protect Users
+Successfully removed Jarod.Doran@canoo.com from group Oracle ERP - Prod
+Successfully removed Jarod.Doran@canoo.com from group team-internal-canoo
+Successfully removed Jarod.Doran@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Lei Gu | DEPROVISIONED
+Successfully removed Lei.Gu@canoo.com from group Active-Fulltime
+Successfully removed Lei.Gu@canoo.com from group team-training
+Successfully removed Lei.Gu@canoo.com from group PolarionUsers
+Successfully removed Lei.Gu@canoo.com from group jira-software-users
+Successfully removed Lei.Gu@canoo.com from group Corp-Canoo
+Successfully removed Lei.Gu@canoo.com from group Global Protect Users
+Successfully removed Lei.Gu@canoo.com from group Oracle ERP - Prod
+Successfully removed Lei.Gu@canoo.com from group team-internal-canoo
+Successfully removed Lei.Gu@canoo.com from group Compass_All_FT_Users
+Successfully removed Lei.Gu@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed Lei.Gu@canoo.com from group Openpath - Fulltime
+Successfully removed Lei.Gu@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Marcel Victoria | DEPROVISIONED
+Successfully removed Marcel.Victoria@canoo.com from group Active-Fulltime
+Successfully removed Marcel.Victoria@canoo.com from group team-training
+Successfully removed Marcel.Victoria@canoo.com from group PolarionUsers
+Successfully removed Marcel.Victoria@canoo.com from group jira-software-users
+Successfully removed Marcel.Victoria@canoo.com from group Corp-Canoo
+Successfully removed Marcel.Victoria@canoo.com from group Global Protect Users
+Successfully removed Marcel.Victoria@canoo.com from group Oracle ERP - Prod
+Successfully removed Marcel.Victoria@canoo.com from group team-internal-canoo
+Successfully removed Marcel.Victoria@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Alina Ashraff | DEPROVISIONED
+Successfully removed Alina.Ashraff@canoo.com from group Active-Interns
+Successfully removed Alina.Ashraff@canoo.com from group team-product-launch
+Successfully removed Alina.Ashraff@canoo.com from group team-training
+Successfully removed Alina.Ashraff@canoo.com from group PolarionUsers
+Successfully removed Alina.Ashraff@canoo.com from group Corp-Canoo
+Successfully removed Alina.Ashraff@canoo.com from group Global Protect Users
+Successfully removed Alina.Ashraff@canoo.com from group Oracle ERP - Prod
+Successfully removed Alina.Ashraff@canoo.com from group team-internal-canoo
+Successfully removed Alina.Ashraff@canoo.com from group SWOPS_Ultron_Overall_View
+Successfully removed Alina.Ashraff@canoo.com from group SauronUsers
+Attempting to remove groups for Larry Holly | DEPROVISIONED
+Successfully removed Larry.Holly@canoo.com from group Active-Contractors
+Successfully removed Larry.Holly@canoo.com from group jira-software-users
+Successfully removed Larry.Holly@canoo.com from group Corp-Canoo
+Successfully removed Larry.Holly@canoo.com from group Global Protect Users
+Successfully removed Larry.Holly@canoo.com from group team-internal-canoo
+Attempting to remove groups for Bernadetta Scholz | DEPROVISIONED
+Successfully removed Bernadetta.Scholz@canoo.com from group Active-Contractors
+Successfully removed Bernadetta.Scholz@canoo.com from group jira-software-users
+Successfully removed Bernadetta.Scholz@canoo.com from group Corp-Canoo
+Successfully removed Bernadetta.Scholz@canoo.com from group Global Protect Users
+Successfully removed Bernadetta.Scholz@canoo.com from group team-internal-canoo
+Attempting to remove groups for Merwin Prosper | DEPROVISIONED
+Attempting to remove groups for Paramita Das | DEPROVISIONED
+Successfully removed Paramita.Das@canoo.com from group Active-Fulltime
+Successfully removed Paramita.Das@canoo.com from group team-training
+Successfully removed Paramita.Das@canoo.com from group PolarionUsers
+Successfully removed Paramita.Das@canoo.com from group Corp-Canoo
+Successfully removed Paramita.Das@canoo.com from group Global Protect Users
+Successfully removed Paramita.Das@canoo.com from group Oracle ERP - Prod
+Successfully removed Paramita.Das@canoo.com from group confluence-internal-canoo
+Successfully removed Paramita.Das@canoo.com from group team-internal-canoo
+Successfully removed Paramita.Das@canoo.com from group Compass_All_FT_Users
+Successfully removed Paramita.Das@canoo.com from group eQLM_Test-Admins
+Attempting to remove groups for Merwin Prosper | DEPROVISIONED
+Successfully removed Merwin.Prosper@canoo.com from group Active-Contractors
+Successfully removed Merwin.Prosper@canoo.com from group jira-servicedesk-agents
+Successfully removed Merwin.Prosper@canoo.com from group jira-software-users
+Successfully removed Merwin.Prosper@canoo.com from group Corp-Canoo
+Successfully removed Merwin.Prosper@canoo.com from group Global Protect Users
+Successfully removed Merwin.Prosper@canoo.com from group Oracle ERP - Prod
+Successfully removed Merwin.Prosper@canoo.com from group Oracle Support
+Successfully removed Merwin.Prosper@canoo.com from group team-internal-canoo
+Successfully removed Merwin.Prosper@canoo.com from group Oracle ERP - Testing
+Successfully removed Merwin.Prosper@canoo.com from group team-oracle
+Successfully removed Merwin.Prosper@canoo.com from group Oracle ERP - Dev1
+Attempting to remove groups for Gabriel Marais | DEPROVISIONED
+Successfully removed Gabriel.Marais@canoo.com from group Active-Fulltime
+Successfully removed Gabriel.Marais@canoo.com from group team-training
+Successfully removed Gabriel.Marais@canoo.com from group PolarionUsers
+Successfully removed Gabriel.Marais@canoo.com from group jira-software-users
+Successfully removed Gabriel.Marais@canoo.com from group Corp-Canoo
+Successfully removed Gabriel.Marais@canoo.com from group Global Protect Users
+Successfully removed Gabriel.Marais@canoo.com from group Oracle ERP - Prod
+Successfully removed Gabriel.Marais@canoo.com from group team-internal-canoo
+Attempting to remove groups for Priscilla Morales | DEPROVISIONED
+Successfully removed priscilla.morales@canoo.com from group Active-Contractors
+Successfully removed priscilla.morales@canoo.com from group jira-software-users
+Successfully removed priscilla.morales@canoo.com from group Corp-Canoo
+Successfully removed priscilla.morales@canoo.com from group Global Protect Users
+Successfully removed priscilla.morales@canoo.com from group Oracle ERP - Prod
+Successfully removed priscilla.morales@canoo.com from group Oracle Support
+Successfully removed priscilla.morales@canoo.com from group team-internal-canoo
+Attempting to remove groups for David Cassinerio | DEPROVISIONED
+Successfully removed David.Cassinerio@canoo.com from group Active-Contractors
+Successfully removed David.Cassinerio@canoo.com from group Corp-Canoo
+Successfully removed David.Cassinerio@canoo.com from group confluence-internal-canoo
+Successfully removed David.Cassinerio@canoo.com from group team-internal-canoo
+Attempting to remove groups for Anthony Espinoza | DEPROVISIONED
+Successfully removed anthony.espinoza@canoo.com from group Active-Contractors
+Successfully removed anthony.espinoza@canoo.com from group team-it-helpdesk
+Successfully removed anthony.espinoza@canoo.com from group jira-software-users
+Successfully removed anthony.espinoza@canoo.com from group Corp-Canoo
+Successfully removed anthony.espinoza@canoo.com from group Global Protect Users
+Successfully removed anthony.espinoza@canoo.com from group team-internal-canoo
+Successfully removed anthony.espinoza@canoo.com from group Global Protect - SAML
+Attempting to remove groups for Tadas Bite | DEPROVISIONED
+Successfully removed Tadas.Bite@canoo.com from group Active-Fulltime
+Successfully removed Tadas.Bite@canoo.com from group team-training
+Successfully removed Tadas.Bite@canoo.com from group team-production-control
+Successfully removed Tadas.Bite@canoo.com from group Corp-Canoo
+Successfully removed Tadas.Bite@canoo.com from group Global Protect Users
+Successfully removed Tadas.Bite@canoo.com from group Oracle ERP - Prod
+Successfully removed Tadas.Bite@canoo.com from group team-internal-canoo
+Successfully removed Tadas.Bite@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Fernando Lopez_Mena | DEPROVISIONED
+Successfully removed Fernando.Lopez_Mena@canoo.com from group Active-Fulltime
+Successfully removed Fernando.Lopez_Mena@canoo.com from group team-training
+Successfully removed Fernando.Lopez_Mena@canoo.com from group jira-software-users
+Successfully removed Fernando.Lopez_Mena@canoo.com from group Rescale Users
+Successfully removed Fernando.Lopez_Mena@canoo.com from group Corp-Canoo
+Successfully removed Fernando.Lopez_Mena@canoo.com from group Global Protect Users
+Successfully removed Fernando.Lopez_Mena@canoo.com from group Oracle ERP - Prod
+Successfully removed Fernando.Lopez_Mena@canoo.com from group team-internal-canoo
+Successfully removed Fernando.Lopez_Mena@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Charley Bak | DEPROVISIONED
+Attempting to remove groups for Robert Sutherland | DEPROVISIONED
+Successfully removed Robert.sutherland@canoo.com from group Active-Contractors
+Attempting to remove groups for Amber Hardwick | DEPROVISIONED
+Successfully removed amber.hardwick@canoo.com from group Active-Contractors
+Successfully removed amber.hardwick@canoo.com from group Ultipro Users
+Attempting to remove groups for Doug Ogden | DEPROVISIONED
+Successfully removed Doug.Ogden@canoo.com from group Active-Contractors
+Successfully removed Doug.Ogden@canoo.com from group jira-software-users
+Successfully removed Doug.Ogden@canoo.com from group Corp-Canoo
+Successfully removed Doug.Ogden@canoo.com from group Global Protect Users
+Successfully removed Doug.Ogden@canoo.com from group Oracle ERP - Prod
+Successfully removed Doug.Ogden@canoo.com from group team-internal-canoo
+Successfully removed Doug.Ogden@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed Doug.Ogden@canoo.com from group eQLM_Prod-Users
+Attempting to remove groups for Gautham Govindarajan | DEPROVISIONED
+Successfully removed Gautham.Govindarajan@canoo.com from group Active-Contractors
+Successfully removed Gautham.Govindarajan@canoo.com from group jira-software-users
+Successfully removed Gautham.Govindarajan@canoo.com from group team-internal-canoo
+Successfully removed Gautham.Govindarajan@canoo.com from group Slack Users
+Attempting to remove groups for Teresa Vuong | DEPROVISIONED
+Successfully removed Teresa.Vuong@canoo.com from group Active-Contractors
+Successfully removed Teresa.Vuong@canoo.com from group jira-software-users
+Successfully removed Teresa.Vuong@canoo.com from group team-internal-canoo
+Successfully removed Teresa.Vuong@canoo.com from group Ultipro Users
+Attempting to remove groups for Kenin Fenster | DEPROVISIONED
+Successfully removed kenin.fenster@canoo.com from group Active-Contractors
+Successfully removed kenin.fenster@canoo.com from group team-hr
+Successfully removed kenin.fenster@canoo.com from group team-talent-acquisition
+Successfully removed kenin.fenster@canoo.com from group jira-software-users
+Successfully removed kenin.fenster@canoo.com from group Corp-Canoo
+Successfully removed kenin.fenster@canoo.com from group Global Protect Users
+Successfully removed kenin.fenster@canoo.com from group team-internal-canoo
+Attempting to remove groups for Stephen Humma | DEPROVISIONED
+Successfully removed stephen.humma@canoo.com from group Active-Contractors
+Successfully removed stephen.humma@canoo.com from group team-it-helpdesk
+Successfully removed stephen.humma@canoo.com from group team-it-ops
+Successfully removed stephen.humma@canoo.com from group team-training
+Successfully removed stephen.humma@canoo.com from group jira-software-users
+Successfully removed stephen.humma@canoo.com from group Corp-Canoo
+Successfully removed stephen.humma@canoo.com from group Global Protect Users
+Successfully removed stephen.humma@canoo.com from group team-internal-canoo
+Successfully removed stephen.humma@canoo.com from group Global Protect - SAML
+Attempting to remove groups for Vaibhav Pawaskar | DEPROVISIONED
+Successfully removed Vaibhav.Pawaskar@canoo.com from group Active-Interns
+Successfully removed Vaibhav.Pawaskar@canoo.com from group team-training
+Successfully removed Vaibhav.Pawaskar@canoo.com from group PolarionUsers
+Successfully removed Vaibhav.Pawaskar@canoo.com from group jira-software-users
+Successfully removed Vaibhav.Pawaskar@canoo.com from group Corp-Canoo
+Successfully removed Vaibhav.Pawaskar@canoo.com from group Global Protect Users
+Successfully removed Vaibhav.Pawaskar@canoo.com from group Oracle ERP - Prod
+Successfully removed Vaibhav.Pawaskar@canoo.com from group team-internal-canoo
+Successfully removed Vaibhav.Pawaskar@canoo.com from group Openpath - Fulltime
+Successfully removed Vaibhav.Pawaskar@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Ursala Isom | DEPROVISIONED
+Successfully removed Ursala.Isom@canoo.com from group Active-Fulltime
+Successfully removed Ursala.Isom@canoo.com from group team-training
+Successfully removed Ursala.Isom@canoo.com from group jira-software-users
+Successfully removed Ursala.Isom@canoo.com from group Corp-Canoo
+Successfully removed Ursala.Isom@canoo.com from group Global Protect Users
+Successfully removed Ursala.Isom@canoo.com from group Oracle ERP - Prod
+Successfully removed Ursala.Isom@canoo.com from group team-internal-canoo
+Successfully removed Ursala.Isom@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Erik Kolasa | DEPROVISIONED
+Successfully removed Erik.Kolasa@canoo.com from group Active-Contractors
+Successfully removed Erik.Kolasa@canoo.com from group jira-software-users
+Successfully removed Erik.Kolasa@canoo.com from group Corp-Canoo
+Successfully removed Erik.Kolasa@canoo.com from group Global Protect Users
+Successfully removed Erik.Kolasa@canoo.com from group team-internal-canoo
+Attempting to remove groups for Kelly Stover | DEPROVISIONED
+Successfully removed Kelly.Stover@canoo.com from group Active-Fulltime
+Successfully removed Kelly.Stover@canoo.com from group team-training
+Successfully removed Kelly.Stover@canoo.com from group jira-software-users
+Successfully removed Kelly.Stover@canoo.com from group Corp-Canoo
+Successfully removed Kelly.Stover@canoo.com from group Global Protect Users
+Successfully removed Kelly.Stover@canoo.com from group Oracle ERP - Prod
+Successfully removed Kelly.Stover@canoo.com from group team-internal-canoo
+Successfully removed Kelly.Stover@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Syeda Rizvi | DEPROVISIONED
+Successfully removed Syeda.Rizvi@canoo.com from group Active-Interns
+Successfully removed Syeda.Rizvi@canoo.com from group team-training
+Successfully removed Syeda.Rizvi@canoo.com from group PolarionUsers
+Successfully removed Syeda.Rizvi@canoo.com from group jira-software-users
+Successfully removed Syeda.Rizvi@canoo.com from group Corp-Canoo
+Successfully removed Syeda.Rizvi@canoo.com from group Global Protect Users
+Successfully removed Syeda.Rizvi@canoo.com from group team-internal-canoo
+Successfully removed Syeda.Rizvi@canoo.com from group jenkins-fw-developer
+Attempting to remove groups for Brian Taylor | DEPROVISIONED
+Successfully removed Brian.Taylor@canoo.com from group Active-Contractors
+Successfully removed Brian.Taylor@canoo.com from group jira-software-users
+Successfully removed Brian.Taylor@canoo.com from group Corp-Canoo
+Successfully removed Brian.Taylor@canoo.com from group Global Protect Users
+Successfully removed Brian.Taylor@canoo.com from group team-internal-canoo
+Attempting to remove groups for Trac_Bao Bui | DEPROVISIONED
+Successfully removed Trac_Bao.Bui@canoo.com from group Active-Fulltime
+Successfully removed Trac_Bao.Bui@canoo.com from group team-ecu
+Successfully removed Trac_Bao.Bui@canoo.com from group team-electrical-high-voltage
+Successfully removed Trac_Bao.Bui@canoo.com from group team-training
+Successfully removed Trac_Bao.Bui@canoo.com from group team-electrical-low-voltage
+Successfully removed Trac_Bao.Bui@canoo.com from group PolarionUsers
+Successfully removed Trac_Bao.Bui@canoo.com from group Corp-Canoo
+Successfully removed Trac_Bao.Bui@canoo.com from group Global Protect Users
+Successfully removed Trac_Bao.Bui@canoo.com from group Oracle ERP - Prod
+Successfully removed Trac_Bao.Bui@canoo.com from group team-internal-canoo
+Successfully removed Trac_Bao.Bui@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Tony Lee | DEPROVISIONED
+Successfully removed tony.lee@canoo.com from group Active-Fulltime
+Successfully removed tony.lee@canoo.com from group team-training
+Successfully removed tony.lee@canoo.com from group jira-software-users
+Successfully removed tony.lee@canoo.com from group Global Protect Users
+Successfully removed tony.lee@canoo.com from group Oracle ERP - Prod
+Successfully removed tony.lee@canoo.com from group team-internal-canoo
+Successfully removed tony.lee@canoo.com from group trello-software-users
+Successfully removed tony.lee@canoo.com from group Compass_All_FT_Users
+Successfully removed tony.lee@canoo.com from group SWOPS_Sentry_Overall_User
+Attempting to remove groups for Scott Stamness | DEPROVISIONED
+Attempting to remove groups for Rebecca Ang | DEPROVISIONED
+Successfully removed Rebecca.Ang@canoo.com from group Active-Fulltime
+Successfully removed Rebecca.Ang@canoo.com from group team-training
+Successfully removed Rebecca.Ang@canoo.com from group Corp-Canoo
+Successfully removed Rebecca.Ang@canoo.com from group Global Protect Users
+Successfully removed Rebecca.Ang@canoo.com from group Oracle ERP - Prod
+Successfully removed Rebecca.Ang@canoo.com from group team-internal-canoo
+Successfully removed Rebecca.Ang@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Anna Wei | DEPROVISIONED
+Successfully removed Anna.Wei@canoo.com from group Active-Interns
+Successfully removed Anna.Wei@canoo.com from group team-closures
+Successfully removed Anna.Wei@canoo.com from group team-training
+Successfully removed Anna.Wei@canoo.com from group PolarionUsers
+Successfully removed Anna.Wei@canoo.com from group jira-software-users
+Successfully removed Anna.Wei@canoo.com from group Corp-Canoo
+Successfully removed Anna.Wei@canoo.com from group Global Protect Users
+Successfully removed Anna.Wei@canoo.com from group Oracle ERP - Prod
+Successfully removed Anna.Wei@canoo.com from group team-internal-canoo
+Attempting to remove groups for Andrew Guo | DEPROVISIONED
+Successfully removed Andrew.Guo@canoo.com from group Active-Interns
+Successfully removed Andrew.Guo@canoo.com from group team-training
+Successfully removed Andrew.Guo@canoo.com from group PolarionUsers
+Successfully removed Andrew.Guo@canoo.com from group jira-software-users
+Successfully removed Andrew.Guo@canoo.com from group Corp-Canoo
+Successfully removed Andrew.Guo@canoo.com from group Global Protect Users
+Successfully removed Andrew.Guo@canoo.com from group team-internal-canoo
+Successfully removed Andrew.Guo@canoo.com from group jenkins-fw-developer
+Attempting to remove groups for Akhila Koydan | DEPROVISIONED
+Successfully removed akhila.koydan@cloudworks.co from group Oracle Support
+Successfully removed akhila.koydan@cloudworks.co from group External Users
+Successfully removed akhila.koydan@cloudworks.co from group Oracle ERP - Dev1
+Attempting to remove groups for Andreas Natsis | DEPROVISIONED
+Successfully removed Andreas.Natsis@canoo.com from group Active-Fulltime
+Successfully removed Andreas.Natsis@canoo.com from group aws#hpc#Canoo_Power_User_Role_Okta#970907468190
+Successfully removed Andreas.Natsis@canoo.com from group team-training
+Successfully removed Andreas.Natsis@canoo.com from group jira-software-users
+Successfully removed Andreas.Natsis@canoo.com from group Corp-Canoo
+Successfully removed Andreas.Natsis@canoo.com from group Global Protect Users
+Successfully removed Andreas.Natsis@canoo.com from group Oracle ERP - Prod
+Successfully removed Andreas.Natsis@canoo.com from group team-internal-canoo
+Successfully removed Andreas.Natsis@canoo.com from group Compass_All_FT_Users
+Successfully removed Andreas.Natsis@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed Andreas.Natsis@canoo.com from group Openpath - Fulltime
+Successfully removed Andreas.Natsis@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Marco Borghetti | DEPROVISIONED
+Successfully removed Marco.Borghetti@canoo.com from group Active-Fulltime
+Successfully removed Marco.Borghetti@canoo.com from group team-training
+Successfully removed Marco.Borghetti@canoo.com from group jira-software-users
+Successfully removed Marco.Borghetti@canoo.com from group Corp-Canoo
+Successfully removed Marco.Borghetti@canoo.com from group Global Protect Users
+Successfully removed Marco.Borghetti@canoo.com from group Oracle ERP - Prod
+Successfully removed Marco.Borghetti@canoo.com from group team-internal-canoo
+Attempting to remove groups for Gary Connell | DEPROVISIONED
+Successfully removed Gary.Connell@canoo.com from group Active-Fulltime
+Successfully removed Gary.Connell@canoo.com from group team-training
+Successfully removed Gary.Connell@canoo.com from group Corp-Canoo
+Successfully removed Gary.Connell@canoo.com from group Global Protect Users
+Successfully removed Gary.Connell@canoo.com from group Oracle ERP - Prod
+Successfully removed Gary.Connell@canoo.com from group team-internal-canoo
+Successfully removed Gary.Connell@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Shumona Shandha | DEPROVISIONED
+Attempting to remove groups for Syeda_Sheherbano Rizvi | DEPROVISIONED
+Attempting to remove groups for Sai_Chandrahas_Reddy Biddala | DEPROVISIONED
+Successfully removed Sai_Chandrahas_Reddy.Biddala@canoo.com from group Active-Fulltime
+Successfully removed Sai_Chandrahas_Reddy.Biddala@canoo.com from group team-training
+Successfully removed Sai_Chandrahas_Reddy.Biddala@canoo.com from group Corp-Canoo
+Successfully removed Sai_Chandrahas_Reddy.Biddala@canoo.com from group Global Protect Users
+Successfully removed Sai_Chandrahas_Reddy.Biddala@canoo.com from group Oracle ERP - Prod
+Attempting to remove groups for Charles Miller | DEPROVISIONED
+Successfully removed Charles.Miller@canoo.com from group Active-Fulltime
+Successfully removed Charles.Miller@canoo.com from group team-training
+Successfully removed Charles.Miller@canoo.com from group jira-software-users
+Successfully removed Charles.Miller@canoo.com from group Corp-Canoo
+Successfully removed Charles.Miller@canoo.com from group Global Protect Users
+Successfully removed Charles.Miller@canoo.com from group Oracle ERP - Prod
+Successfully removed Charles.Miller@canoo.com from group team-internal-canoo
+Attempting to remove groups for Mateo Pena | DEPROVISIONED
+Successfully removed Mateo.Pena@canoo.com from group Active-Fulltime
+Successfully removed Mateo.Pena@canoo.com from group team-training
+Successfully removed Mateo.Pena@canoo.com from group PolarionUsers
+Successfully removed Mateo.Pena@canoo.com from group jira-software-users
+Successfully removed Mateo.Pena@canoo.com from group Corp-Canoo
+Successfully removed Mateo.Pena@canoo.com from group Global Protect Users
+Successfully removed Mateo.Pena@canoo.com from group Oracle ERP - Prod
+Successfully removed Mateo.Pena@canoo.com from group team-internal-canoo
+Successfully removed Mateo.Pena@canoo.com from group Openpath - Fulltime
+Successfully removed Mateo.Pena@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Ognjen Bosic | DEPROVISIONED
+Successfully removed Ognjen.Bosic@canoo.com from group Active-Fulltime
+Successfully removed Ognjen.Bosic@canoo.com from group team-training
+Successfully removed Ognjen.Bosic@canoo.com from group PolarionUsers
+Successfully removed Ognjen.Bosic@canoo.com from group Corp-Canoo
+Successfully removed Ognjen.Bosic@canoo.com from group Global Protect Users
+Successfully removed Ognjen.Bosic@canoo.com from group Oracle ERP - Prod
+Successfully removed Ognjen.Bosic@canoo.com from group team-internal-canoo
+Successfully removed Ognjen.Bosic@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Tim Brooks | DEPROVISIONED
+Successfully removed Tim.Brooks@canoo.com from group Active-Fulltime
+Successfully removed Tim.Brooks@canoo.com from group team-training
+Successfully removed Tim.Brooks@canoo.com from group PolarionUsers
+Successfully removed Tim.Brooks@canoo.com from group Corp-Canoo
+Successfully removed Tim.Brooks@canoo.com from group Global Protect Users
+Successfully removed Tim.Brooks@canoo.com from group Oracle ERP - Prod
+Successfully removed Tim.Brooks@canoo.com from group team-internal-canoo
+Successfully removed Tim.Brooks@canoo.com from group Compass_All_FT_Users
+Successfully removed Tim.Brooks@canoo.com from group team-accessories
+Attempting to remove groups for William Huang | DEPROVISIONED
+Successfully removed William.Huang@canoo.com from group Active-Fulltime
+Successfully removed William.Huang@canoo.com from group team-in-house-manufacturing
+Successfully removed William.Huang@canoo.com from group team-training
+Successfully removed William.Huang@canoo.com from group jira-software-users
+Successfully removed William.Huang@canoo.com from group Corp-Canoo
+Successfully removed William.Huang@canoo.com from group Global Protect Users
+Successfully removed William.Huang@canoo.com from group Oracle ERP - Prod
+Successfully removed William.Huang@canoo.com from group team-internal-canoo
+Successfully removed William.Huang@canoo.com from group openpath - Covid Basic
+Successfully removed William.Huang@canoo.com from group Openpath - Fab
+Attempting to remove groups for Eric Benton | DEPROVISIONED
+Successfully removed Eric.Benton@canoo.com from group Active-Fulltime
+Successfully removed Eric.Benton@canoo.com from group team-training
+Successfully removed Eric.Benton@canoo.com from group Corp-Canoo
+Successfully removed Eric.Benton@canoo.com from group Global Protect Users
+Successfully removed Eric.Benton@canoo.com from group Oracle ERP - Prod
+Successfully removed Eric.Benton@canoo.com from group team-internal-canoo
+Successfully removed Eric.Benton@canoo.com from group Compass_All_FT_Users
+Successfully removed Eric.Benton@canoo.com from group eQLM_Prod-Users
+Successfully removed Eric.Benton@canoo.com from group SWOPS_Sentry_Overall_User
+Attempting to remove groups for Rachit Patel | DEPROVISIONED
+Successfully removed Rachit.Patel@canoo.com from group Active-Fulltime
+Successfully removed Rachit.Patel@canoo.com from group team-software-operations
+Successfully removed Rachit.Patel@canoo.com from group team-training
+Successfully removed Rachit.Patel@canoo.com from group jira-software-users
+Successfully removed Rachit.Patel@canoo.com from group Corp-Canoo
+Successfully removed Rachit.Patel@canoo.com from group Global Protect Users
+Successfully removed Rachit.Patel@canoo.com from group Oracle ERP - Prod
+Successfully removed Rachit.Patel@canoo.com from group team-internal-canoo
+Successfully removed Rachit.Patel@canoo.com from group Openpath - Fulltime
+Successfully removed Rachit.Patel@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for Michael Wisner | DEPROVISIONED
+Successfully removed Michael.Wisner@canoo.com from group Active-Fulltime
+Successfully removed Michael.Wisner@canoo.com from group team-training
+Successfully removed Michael.Wisner@canoo.com from group jira-software-users
+Successfully removed Michael.Wisner@canoo.com from group Corp-Canoo
+Successfully removed Michael.Wisner@canoo.com from group Global Protect Users
+Successfully removed Michael.Wisner@canoo.com from group Oracle ERP - Prod
+Successfully removed Michael.Wisner@canoo.com from group team-internal-canoo
+Attempting to remove groups for Rob Stevens | DEPROVISIONED
+Successfully removed Rob.Stevens@Canoo.com from group Active-Fulltime
+Successfully removed Rob.Stevens@Canoo.com from group team-training
+Successfully removed Rob.Stevens@Canoo.com from group jira-software-users
+Successfully removed Rob.Stevens@Canoo.com from group Corp-Canoo
+Successfully removed Rob.Stevens@Canoo.com from group Global Protect Users
+Successfully removed Rob.Stevens@Canoo.com from group Oracle ERP - Prod
+Successfully removed Rob.Stevens@Canoo.com from group Oracle Support
+Successfully removed Rob.Stevens@Canoo.com from group team-internal-canoo
+Successfully removed Rob.Stevens@Canoo.com from group Oracle ERP - Testing
+Successfully removed Rob.Stevens@Canoo.com from group Compass_All_FT_Users
+Successfully removed Rob.Stevens@Canoo.com from group Oracle ERP - Dev1
+Attempting to remove groups for Unmesh Patil | DEPROVISIONED
+Successfully removed Unmesh.Patil@canoo.com from group Active-Fulltime
+Successfully removed Unmesh.Patil@canoo.com from group team-training
+Successfully removed Unmesh.Patil@canoo.com from group jira-software-users
+Successfully removed Unmesh.Patil@canoo.com from group Corp-Canoo
+Successfully removed Unmesh.Patil@canoo.com from group Global Protect Users
+Successfully removed Unmesh.Patil@canoo.com from group Oracle ERP - Prod
+Successfully removed Unmesh.Patil@canoo.com from group team-internal-canoo
+Attempting to remove groups for Anthony Bastianelli | DEPROVISIONED
+Successfully removed Anthony.Bastianelli@canoo.com from group Active-Fulltime
+Successfully removed Anthony.Bastianelli@canoo.com from group team-training
+Successfully removed Anthony.Bastianelli@canoo.com from group jira-software-users
+Successfully removed Anthony.Bastianelli@canoo.com from group Corp-Canoo
+Successfully removed Anthony.Bastianelli@canoo.com from group Oracle ERP - Prod
+Successfully removed Anthony.Bastianelli@canoo.com from group team-internal-canoo
+Attempting to remove groups for Brandon Boswell | DEPROVISIONED
+Successfully removed Brandon.Boswell@canoo.com from group Active-Fulltime
+Successfully removed Brandon.Boswell@canoo.com from group team-training
+Successfully removed Brandon.Boswell@canoo.com from group Corp-Canoo
+Successfully removed Brandon.Boswell@canoo.com from group Global Protect Users
+Successfully removed Brandon.Boswell@canoo.com from group Oracle ERP - Prod
+Successfully removed Brandon.Boswell@canoo.com from group team-internal-canoo
+Successfully removed Brandon.Boswell@canoo.com from group Oracle ERP - Testing
+Successfully removed Brandon.Boswell@canoo.com from group Compass_All_FT_Users
+Successfully removed Brandon.Boswell@canoo.com from group eQLM_Prod-Users
+Successfully removed Brandon.Boswell@canoo.com from group SWOPS_Sentry_Overall_User
+Attempting to remove groups for Parth Bhavsar | DEPROVISIONED
+Successfully removed parth.bhavsar@canoo.com from group Active-Fulltime
+Successfully removed parth.bhavsar@canoo.com from group team-training
+Successfully removed parth.bhavsar@canoo.com from group Corp-Canoo
+Successfully removed parth.bhavsar@canoo.com from group Global Protect Users
+Successfully removed parth.bhavsar@canoo.com from group Oracle ERP - Prod
+Successfully removed parth.bhavsar@canoo.com from group team-internal-canoo
+Attempting to remove groups for Dawn Goode | DEPROVISIONED
+Successfully removed dawn.goode@canoo.com from group Active-Contractors
+Successfully removed dawn.goode@canoo.com from group team-training
+Successfully removed dawn.goode@canoo.com from group jira-software-users
+Successfully removed dawn.goode@canoo.com from group Corp-Canoo
+Successfully removed dawn.goode@canoo.com from group Global Protect Users
+Successfully removed dawn.goode@canoo.com from group Oracle ERP - Prod
+Successfully removed dawn.goode@canoo.com from group team-internal-canoo
+Attempting to remove groups for Cliff Araki | DEPROVISIONED
+Successfully removed cliff@canoo.com from group Active-Fulltime
+Successfully removed cliff@canoo.com from group Oracle ERP - Prod
+Successfully removed cliff@canoo.com from group team-internal-canoo
+Successfully removed cliff@canoo.com from group Compass_All_FT_Users
+Attempting to remove groups for Ali Gilani | DEPROVISIONED
+Successfully removed ali@canoo.com from group Okta Administrators
+Successfully removed ali@canoo.com from group Active-Fulltime
+Successfully removed ali@canoo.com from group aws#itops#Admin-Role-Okta#583314365409
+Successfully removed ali@canoo.com from group aws#connectedservices#Admin-Role-Okta#328927794502
+Successfully removed ali@canoo.com from group aws#hpc#Admin-Role-Okta#970907468190
+Successfully removed ali@canoo.com from group IT Admins
+Successfully removed ali@canoo.com from group team-devops
+Successfully removed ali@canoo.com from group team-it-helpdesk
+Successfully removed ali@canoo.com from group team-it-ops
+Successfully removed ali@canoo.com from group team-managers
+Successfully removed ali@canoo.com from group team-training
+Successfully removed ali@canoo.com from group PolarionUsers
+Successfully removed ali@canoo.com from group Administrator
+Successfully removed ali@canoo.com from group jira-software-users
+Successfully removed ali@canoo.com from group Rescale Users
+Successfully removed ali@canoo.com from group Corp-Canoo
+Successfully removed ali@canoo.com from group Global Protect Users
+Successfully removed ali@canoo.com from group Corp-Dell-Switches
+Successfully removed ali@canoo.com from group Oracle ERP - Prod
+Successfully removed ali@canoo.com from group Admin-Meraki
+Successfully removed ali@canoo.com from group Admin-AWS
+Successfully removed ali@canoo.com from group Admin-Oracle Cloud
+Successfully removed ali@canoo.com from group vault-battery-test
+Successfully removed ali@canoo.com from group confluence-internal-canoo
+Successfully removed ali@canoo.com from group confluence-internal-administrators
+Successfully removed ali@canoo.com from group Oracle Support
+Successfully removed ali@canoo.com from group team-internal-canoo
+Successfully removed ali@canoo.com from group bitbucket-software-users
+Successfully removed ali@canoo.com from group confluence-internal-magna
+Successfully removed ali@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed ali@canoo.com from group Global Protect - SAML
+Successfully removed ali@canoo.com from group aws#design#Admin-Role-Okta#575010777897
+Successfully removed ali@canoo.com from group Compass_All_FT_Users
+Successfully removed ali@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Successfully removed ali@canoo.com from group LucidChart View-only Users
+Attempting to remove groups for Nicholas Certo | DEPROVISIONED
+Successfully removed Nicholas.Certo@canoo.com from group team-battery
+Successfully removed Nicholas.Certo@canoo.com from group PolarionUsers
+Successfully removed Nicholas.Certo@canoo.com from group Corp-Canoo
+Successfully removed Nicholas.Certo@canoo.com from group team-battery-test
+Successfully removed Nicholas.Certo@canoo.com from group Oracle ERP - Prod
+Successfully removed Nicholas.Certo@canoo.com from group Compass_All_FT_Users
+Successfully removed Nicholas.Certo@canoo.com from group SWOPS_Sentry_Overall_User
+Attempting to remove groups for Nicolas Evans | DEPROVISIONED
+Successfully removed Nicolas.Evans@canoo.com from group Active-Fulltime
+Successfully removed Nicolas.Evans@canoo.com from group team-training
+Successfully removed Nicolas.Evans@canoo.com from group jira-software-users
+Successfully removed Nicolas.Evans@canoo.com from group Corp-Canoo
+Successfully removed Nicolas.Evans@canoo.com from group Global Protect Users
+Successfully removed Nicolas.Evans@canoo.com from group Oracle ERP - Prod
+Successfully removed Nicolas.Evans@canoo.com from group team-internal-canoo
+Attempting to remove groups for Ingo Kaiser | DEPROVISIONED
+Successfully removed ingo.kaiser@canoo.com from group Active-Fulltime
+Successfully removed ingo.kaiser@canoo.com from group team-training
+Successfully removed ingo.kaiser@canoo.com from group PolarionUsers
+Successfully removed ingo.kaiser@canoo.com from group jira-software-users
+Successfully removed ingo.kaiser@canoo.com from group Corp-Canoo
+Successfully removed ingo.kaiser@canoo.com from group Global Protect Users
+Successfully removed ingo.kaiser@canoo.com from group Oracle ERP - Prod
+Successfully removed ingo.kaiser@canoo.com from group team-internal-canoo
+Attempting to remove groups for Matthew Faden | DEPROVISIONED
+Successfully removed matthew@canoo.com from group Active-Fulltime
+Successfully removed matthew@canoo.com from group team-manufacturing-engineering
+Successfully removed matthew@canoo.com from group team-managers
+Successfully removed matthew@canoo.com from group team-training
+Successfully removed matthew@canoo.com from group team-triage
+Successfully removed matthew@canoo.com from group team-vehicle-integration
+Successfully removed matthew@canoo.com from group PolarionUsers
+Successfully removed matthew@canoo.com from group jira-servicedesk-agents
+Successfully removed matthew@canoo.com from group jira-software-users
+Successfully removed matthew@canoo.com from group Corp-Canoo
+Successfully removed matthew@canoo.com from group Global Protect Users
+Successfully removed matthew@canoo.com from group Oracle ERP - Prod
+Successfully removed matthew@canoo.com from group team-internal-canoo
+Successfully removed matthew@canoo.com from group Compass_Dashboard_Viewer
+Successfully removed matthew@canoo.com from group Compass_All_FT_Users
+Successfully removed matthew@canoo.com from group Compass_MPDV_Dashboard_Viewer
+Successfully removed matthew@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed matthew@canoo.com from group Openpath - Fulltime
+Successfully removed matthew@canoo.com from group openpath - Covid Basic
+Attempting to remove groups for David Dai | DEPROVISIONED
+Successfully removed david.dai@canoo.com from group vault-ecr-user
+Successfully removed david.dai@canoo.com from group Active-Fulltime
+Successfully removed david.dai@canoo.com from group aws#connectedservices#Canoo_Power_User_Role_Okta#328927794502
+Successfully removed david.dai@canoo.com from group JenkinsUsers
+Successfully removed david.dai@canoo.com from group Bitbucket_Users
+Successfully removed david.dai@canoo.com from group FileCloud Users
+Successfully removed david.dai@canoo.com from group team-infotainment
+Successfully removed david.dai@canoo.com from group team-training
+Successfully removed david.dai@canoo.com from group PolarionUsers
+Successfully removed david.dai@canoo.com from group Developer
+Successfully removed david.dai@canoo.com from group jira-software-users
+Successfully removed david.dai@canoo.com from group Corp-Canoo
+Successfully removed david.dai@canoo.com from group Global Protect Users
+Successfully removed david.dai@canoo.com from group Oracle ERP - Prod
+Successfully removed david.dai@canoo.com from group team-internal-canoo
+Successfully removed david.dai@canoo.com from group Compass_All_FT_Users
+Successfully removed david.dai@canoo.com from group jenkins-in-developer
+Successfully removed david.dai@canoo.com from group LucidChart View-only Users
+Successfully removed david.dai@canoo.com from group SWOPS_Sentry_Overall_User
+Successfully removed david.dai@canoo.com from group Openpath - Fulltime
+Successfully removed david.dai@canoo.com from group AWS-SSO-ConnectedService-Power-User
