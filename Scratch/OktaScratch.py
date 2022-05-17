@@ -11,7 +11,7 @@
 # =======================================================================
 
 # == Imports == #
-from Functions import report_functions as rf, okta_functions as afunc
+from Functions import report_functions as rf, okta_functions as of
 import time
 from datetime import date
 today = date.today().strftime("%m%d%Y")
@@ -34,7 +34,7 @@ if __name__ == '__main__':
     # functions.write_out(data, path, report_title)
 
     # === GET USER TYPES SNAPSHOT === #
-    elan_id = "00u1fnbyowaGo2y5u357"
+    # elan_id = "00u1fnbyowaGo2y5u357"
     # test_external_id = "00uhyskddoV1CxGFs357"
     # user_types = {
     #     "oty3ggscsu5eeMNAK357": "Contractor",
@@ -43,10 +43,10 @@ if __name__ == '__main__':
     #     "oty5lxu0qy0SnQNXh357": "Service",
     #     "otypj558oQU4274DR356": "User"
     # }
-    report_title = "Okta User Types Snapshot_" + today + ".csv"  # Set title
-    data = afunc.run_async(rf.listAllUsersTypes())
-    print(len(data))
-    rf.write_out(data, path, report_title)
+    # report_title = "Okta User Types Snapshot_" + today + ".csv"  # Set title
+    # data = afunc.run_async(rf.listAllUsersTypes())
+    # print(len(data))
+    # rf.write_out(data, path, report_title)
 
     # === TESTING === #
     # data = functions.getAllGroups()
@@ -61,6 +61,11 @@ if __name__ == '__main__':
     #     async def getUserGroups2():
     #         person = await functions.getUser(uid)
     #         print(person)
+
+
+    # path = "/Users/elan/OneDrive - canoo/Projects/PycharmProjects/ITOpsScripts/reports/"
+    # title = "Okta-ListGroupIDs_" + today + ".csv"  # Set title
+    # rf.write_out(data, path, title)
 
     # === TRACK FUNCTION RUN TIME === #
     print("----%.2f----"%(time.time()-st))

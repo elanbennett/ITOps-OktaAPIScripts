@@ -5,7 +5,6 @@ today = date.today().strftime("%m%d%Y")
 
 if __name__ == '__main__':
     st = time.time()
-    path = "/Users/elan/OneDrive - canoo/Projects/PycharmProjects/ITOpsScripts/reports/"
 
     # == FC Admin Login == #
     fc_session = ff.FCAdminLogin()
@@ -13,26 +12,28 @@ if __name__ == '__main__':
     # === CHECK FC for DEPROVISIONED Users === #
     # Pull list of deprovisioned users for Okta, then check if any of them have a FileCloud account
     data = []
+    log = []
     d_users = of.run_async(of.getDeactivatedUsers())
     for user in d_users:
-        username = user.profile.login.split('@')[0]
-        UserCall = ff.FCCheckUserExists(fc_session, username)
-        if UserCall:
-            print("ACCOUNT FOUND |", username)
+        username = user.profile.login.split('@')[0]  # Extract username from okta email
+        UserExists = ff.FCCheckUserExists(fc_session, username)  # Search for account in FileCloud by username
+        if UserExists:
+            print("FILECLOUD ACCOUNT FOUND |", username)
             line = (username, "true")
+            ff.FCCheckStorageUsage(fc_session, username)
+            # == Delete User == #
+            # f.FCDeleteUser(fc_session, username)
+            # log.append(("Successfully deleted FileCloud account for", username))
         else:
-            print("No account")
+            # print("No account")
             line = (username, "false")
         data.append(line)
 
+    path = "/Users/elan/OneDrive - canoo/Projects/PycharmProjects/ITOpsScripts/reports/"
     report_title = "FileCloud User Cleanup_" + today + ".csv"  # Set title
     rf.write_out(data, path, report_title)
 
-    # == Delete User == #
-    # if UserCall.status_code == 200:
-    #     f.FCDeleteUser(session, username)
-    # else:
-    #     print("User not found")
+
 
     # === TRACK FUNCTION RUN TIME === #
     print("Function run time:")

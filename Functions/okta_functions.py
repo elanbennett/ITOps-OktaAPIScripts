@@ -198,8 +198,19 @@ async def userRemoveGroup(group, user):
         print("Successfully removed", user.profile.login, "from group", group.profile.name)
     else:
         print(err)
+    return(err)
 
-#TODO - REFACTOR FOR TO ASYNC FUNCTION
+
+async def userAddGroup(group, user):
+    print("Attempting to add", user.profile.login, "to group", group.profile.name)
+    resp, err = await client.add_user_to_group(group.id, user.id)
+    if err is None:
+        print("Successfully added", user.profile.login, "to group", group.profile.name)
+    else:
+        print(err)
+    return(err)
+
+
 async def userRemoveAllGroups(user):
     # == Create log file == #
     if not os.path.exists('../logs/'):
@@ -226,7 +237,7 @@ async def userRemoveAllGroups(user):
     # == Close log file ==#
     output_txt.close()
 
-#TODO - REFACTOR FOR TO ASYNC FUNCTION
+
 # Using to check username of App User
 async def getAppUserName(appid, userid):
     appuser, resp, err = await client.get_application_user(appid, userid)
@@ -238,7 +249,7 @@ async def getAppUserName(appid, userid):
         print(username)
     return username
 
-#TODO - REFACTOR FOR TO ASYNC FUNCTION
+
 async def getAppUsers(appid):
     query_parameters = {'limit': '200'}
     appusers, resp, err = await client.list_application_users(appid, query_parameters)

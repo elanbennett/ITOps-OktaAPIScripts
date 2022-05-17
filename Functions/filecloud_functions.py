@@ -19,7 +19,6 @@ FilecloudPath = "/elan"  # To be defined
 UploadApiParams = {'appname': 'explorer', 'path': FilecloudPath, 'offset': 0}
 
 
-
 def FCAdminLogin():
     s = requests.Session()
     s.headers.update(Headers)
@@ -50,7 +49,7 @@ def FCGetUser(session, username):
 
 
 def FCCheckUserExists(session, username):
-    print("Finding user:", username)
+    # print("Finding user:", username)
     try:
         user_query = {'username': username}
         UserCall = session.post(ServerURL + 'admin/getuser', params=user_query)
@@ -62,7 +61,7 @@ def FCCheckUserExists(session, username):
 
 
 def FCDeleteUser(session, profile):
-    print("Attemting to delete user:", profile)
+    print("Attempting to delete user:", profile)
     try:
         delete_query = {'profile': profile}
         DeleteCall = session.post(ServerURL + 'admin/deleteuser', params=delete_query)
@@ -73,3 +72,14 @@ def FCDeleteUser(session, profile):
         print("User deleted successfully")
     else:
         print("Error deleting user")
+
+
+def FCCheckStorageUsage(session, username):
+    print("Checking user storage usage for", username, "...")
+    try:
+        user_query = {'username': username}
+        UsageCall = session.post(ServerURL + 'admin/getuserusage', params=user_query)
+        UsageCall.raise_for_status()
+    except requests.exceptions.HTTPError as error:
+        print(error)
+    print(UsageCall.json())
