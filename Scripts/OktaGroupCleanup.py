@@ -8,17 +8,18 @@
 # =======================================================================
 
 # == Imports == #
-from Functions import okta_functions_old
-import time
+import sys, os, time
+sys.path.append(os.getcwd())
+from Functions import okta_functions
 from datetime import date
 today = date.today().strftime("%m%d%Y")
 
 if __name__ == '__main__':
     st = time.time()
     # === REMOVE ALL GROUPS FROM DEPROVISIONED USERS === #
-    d_users = okta_functions_old.getDeactivatedUsers()
+    d_users = okta_functions.getDeactivatedUsers()
     for user in d_users:
-        okta_functions_old.userRemoveAllGroups(user)
+        okta_functions.userRemoveAllGroups(user)
 
     # functions.getGroupsInList(d_users)  # Checks groups for listed users, to confirm groups were removed correctly
 

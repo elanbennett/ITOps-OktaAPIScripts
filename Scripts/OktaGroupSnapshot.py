@@ -11,20 +11,16 @@
 # =======================================================================
 
 # == Imports == #
+import sys, os, time
+sys.path.append(os.getcwd())
 from Functions import report_functions as rf
-import time
 from datetime import date
 today = date.today().strftime("%m%d%Y")
 
 if __name__ == '__main__':
     # === SET VARIABLES === #
     st = time.time()
-    path = "/Users/elan/OneDrive - canoo/Projects/PycharmProjects/ITOpsScripts/reports/"
-
-    # === GET GROUP USERS === #
-    # data = functions.getGroupUsers('00g1zzib9nd3S0v9c357')  # FileCloud Group ID
-    # report_title = "Group User List_" + today + ".csv"
-    # functions.write_out(data, path, report_title)
+    path = "/localpath/reports/"
 
     # === GET GROUP SNAPSHOT === #
     # data = functions.getAllUsersAllGroups()

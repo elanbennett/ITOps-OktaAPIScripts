@@ -48,11 +48,11 @@ async def listAllUsersTypes():
     users, resp, err = await client.list_users()
     data = []  # data to be exported
     user_types = {
-        "oty3ggscsu5eeMNAK357": "Contractor",
-        "oty3ggs8w3wwpom8H357": "External",
-        "oty3ggre21K20cIdq357": "Intern",
-        "oty5lxu0qy0SnQNXh357": "Service",
-        "otypj558oQU4274DR356": "User"
+        "abc": "Contractor",
+        "def": "External",
+        "ghi": "Intern",
+        "jkl": "Service",
+        "mno": "User"
     }
     while True:
         for user in users:

@@ -18,15 +18,26 @@ def run_async(function):
 #        BASIC FUNCTIONS       #
 ## ========================== ##
 
-# Get user data given a User ID
+# Get user obj given a User ID
 async def getUser(uid):
-    print("Getting user data for", uid)
+    print("Getting user obj for", uid)
     user, resp, err = await client.get_user(uid)
     if user is None:
         print("User not found")
     else:
         print(user.profile.first_name, user.profile.last_name, "|", user.status)
     return user
+
+
+# Get group Obj given a Group ID
+async def getGroup(gid):
+    print("Getting group obj for", gid)
+    group, resp, err = await client.get_group(gid)
+    if group is None:
+        print("User not found")
+    else:
+        print(group.profile.name, group.id, "|", group.profile.description)
+    return group
 
 
 # Get list of all users
